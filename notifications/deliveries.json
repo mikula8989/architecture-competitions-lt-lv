@@ -2,8 +2,8 @@
   "schema_version": 1,
   "messages": {
     "setup-test-2026-10-19": {
-      "status": "sending",
-      "updated_at": "2026-10-19T12:58:13.917380+00:00"
+      "status": "sent",
+      "updated_at": "2026-10-19T12:58:14.890772+00:00"
     }
   }
 }
