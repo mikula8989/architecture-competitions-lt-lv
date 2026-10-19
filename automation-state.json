@@ -1,0 +1,349 @@
+{
+  "schema_version": 1,
+  "timezone": "Europe/Vilnius",
+  "minimum_preparation_days": 28,
+  "initialized_at": "2026-10-19",
+  "last_run": null,
+  "known_competitions": [
+    {
+      "key": "cvp:9116007",
+      "title": "Alytaus miesto biblioteka",
+      "first_seen": "2026-10-19",
+      "notification": "baseline"
+    },
+    {
+      "key": "cvp:9420296",
+      "title": "Tauralaukio urbanistinė koncepcija",
+      "first_seen": "2026-10-19",
+      "notification": "baseline"
+    },
+    {
+      "key": "cvp:8035260",
+      "title": "Aštuoni Šiaulių istorijos šimtmečiai",
+      "first_seen": "2026-10-19",
+      "notification": "baseline"
+    },
+    {
+      "key": "cvp:9358433",
+      "title": "Utenos daugiafunkcinio sporto komplekso rekonstrukcija",
+      "first_seen": "2026-10-19",
+      "notification": "baseline"
+    },
+    {
+      "key": "cvp:9895792",
+      "title": "Tarandės progimnazija",
+      "first_seen": "2026-10-19",
+      "notification": "baseline"
+    }
+  ],
+  "source_checks": [
+    {
+      "name": "Statybų naujienos",
+      "url": "https://www.statybunaujienos.lt/zyme/Konkursas",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Architektūros fondas",
+      "url": "https://archfondas.lt/zyma/konkursas/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Nacionalinis architektūros institutas",
+      "url": "https://nai.lt/naujienos/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "OpenProcurements · Lietuva",
+      "url": "https://lt.openprocurements.com/cpv/71230000/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "TenderGlass",
+      "url": "https://tenderglass.com/lt/lietuva-salis-lt/architekturos-ir-susijusios-paslaugos-cpv-71200000",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "VVK · konkursų naujienos",
+      "url": "https://www.vilniausvystymas.lt/naujienos-architekturiniai-konkursai/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Arch.kon.",
+      "url": "https://www.archkon.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Lietuvos architektų sąjunga",
+      "url": "https://www.architektusajunga.lt/konkursai/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "LAS Kauno skyrius",
+      "url": "https://www.laskaunas.lt/category/konkursai/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Architektams · LAS Klaipėda",
+      "url": "https://architektams.lt/konkursai/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Lietuvos architektų rūmai",
+      "url": "https://www.architekturumai.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "CVP IS / Viešieji pirkimai",
+      "url": "https://viesiejipirkimai.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Vilniaus vystymo kompanija",
+      "url": "https://www.vilniausvystymas.lt/architekturiniai-konkursai/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Vilniaus savivaldybė",
+      "url": "https://vilnius.lt/naujienos",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Alytaus savivaldybė",
+      "url": "https://alytus.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Klaipėdos savivaldybė",
+      "url": "https://www.klaipeda.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Utenos savivaldybė",
+      "url": "https://www.utena.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Šiaulių savivaldybė",
+      "url": "https://www.siauliai.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Šiaulių akcentai",
+      "url": "https://siauliuakcentai.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "PILOTAS.LT",
+      "url": "https://pilotas.lt/kategorija/architektura/konkursai/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "SA.lt",
+      "url": "https://sa.lt/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Structum · konkursai",
+      "url": "https://structum.lt/konkursai/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Structum · Išmanusis miestas",
+      "url": "https://structum.lt/ismanusis-miestas/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Interjeras.lt",
+      "url": "https://www.interjeras.lt/konkursai",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Lrytas · Mano erdvė",
+      "url": "https://www.lrytas.lt/bustas/mano-erdve",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "CityNow",
+      "url": "https://blog.citynow.org/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Latvijas Arhitektu savienība",
+      "url": "https://latarh.lv/konkursi/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "LAS · konkursų naujienos",
+      "url": "https://latarh.lv/jaunumi/konkursi",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "LAS · užsienio konkursai",
+      "url": "https://latarh.lv/konkursi/arzemju",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "FOLD · galimybės",
+      "url": "https://www.fold.lv/category/atbalsts/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "A4D",
+      "url": "https://a4d.lv/tag/konkursi/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Archidea",
+      "url": "https://archidea.lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Rīgas Pilsētas attīstības departaments",
+      "url": "https://www.rdpad.lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Rygos savivaldybė",
+      "url": "https://www.riga.lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "IUB / PVS",
+      "url": "https://info.iub.gov.lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "EIS · tiekėjų sistema",
+      "url": "https://www.eis.gov.lv/EKEIS/Supplier/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Iepirkumi.lv",
+      "url": "https://www.iepirkumi.lv/lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Metukonkurss.lv · Stacijas laukums",
+      "url": "https://stacijaslaukums.metukonkurss.lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Metukonkurss.lv · RRTS tornis",
+      "url": "https://rrts-tornis.metukonkurss.lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Latvijos kultūros ministerija",
+      "url": "https://www.km.gov.lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Salaspilio savivaldybė",
+      "url": "https://salaspils.lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "Daugavpilio viešieji pirkimai",
+      "url": "https://www.daugavpils.lv/pasvaldiba/publiskie-iepirkumi/izsludinatie-iepirkumi-un-iepirkuma-proceduras",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "SIRIN · Latvija",
+      "url": "https://www.sirin.eu/lv/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    },
+    {
+      "name": "LAS · LAS konkursai",
+      "url": "https://www.architektusajunga.lt/category/konkursai/las-konkursai/",
+      "checked_at": null,
+      "status": "not_run",
+      "note": "Scheduled checking not yet run."
+    }
+  ]
+}
