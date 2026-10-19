@@ -1,0 +1,31 @@
+name: Slack bot notifications
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'notifications/outbox.json'
+      - '.github/workflows/slack-notify.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: slack-notifications
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out notification sender
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Deliver pending messages as the Slack app
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python3 scripts/slack_notify.py
