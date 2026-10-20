@@ -8,6 +8,10 @@
     "competition:eis:182692": {
       "status": "sent",
       "updated_at": "2026-10-20T07:35:18.916770+00:00"
+    },
+    "competition:eis:182693": {
+      "status": "sending",
+      "updated_at": "2026-10-20T07:35:19.983807+00:00"
     }
   }
 }
