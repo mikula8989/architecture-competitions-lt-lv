@@ -4,6 +4,10 @@
     "setup-test-2026-10-19": {
       "status": "sent",
       "updated_at": "2026-10-19T12:58:14.890772+00:00"
+    },
+    "competition:eis:182692": {
+      "status": "sending",
+      "updated_at": "2026-10-20T07:35:17.253700+00:00"
     }
   }
 }
