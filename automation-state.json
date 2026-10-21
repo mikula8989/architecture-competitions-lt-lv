@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-21T13:25:27.861Z",
-    "finished_at": "2026-10-21T13:37:31.743Z",
+    "finished_at": "2026-10-21T13:41:17.734Z",
     "status": "partial",
     "checked_source_count": 49,
     "total_source_count": 49,
@@ -15,11 +15,19 @@
       "https://eulsukdo-ecoart.com/en/"
     ],
     "error_summary": "TenderGlass tiesiogiai HTTP 403; IUB paieškos rezultatų sąrašas nepasiektas (JavaScript apvalkalas); Iepirkumi/LookUP pilna bazė ir Alytaus/Utenos archyvų aprėptis dalinė. RDPAD pasiektas. CVP IS patikrinta 15 rezultatų, EIS – 2.",
-    "notification_status": "pending",
+    "notification_status": "sent",
     "site_verification": {
-      "index_readback": "pending",
-      "pages_conclusion": "pending",
-      "validation": "JavaScript syntax and headless Chrome checks passed: 8 rows, country filters, shortlist, five tabs, CSV filename and no page errors."
+      "index_readback": "matched",
+      "pages_conclusion": "success",
+      "validation": "JavaScript syntax and headless Chrome checks passed: 8 rows, country filters, shortlist, five tabs, CSV filename and no page errors.",
+      "pages_workflow_run_id": 39609922124,
+      "live_site_read": "Direct HTTPS check unavailable to this checker; GitHub Pages deployment succeeded."
+    },
+    "notification_workflow": {
+      "run_id": 39610003618,
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/39610003618"
     }
   },
   "known_competitions": [
@@ -73,8 +81,9 @@
       "key": "https://eulsukdo-ecoart.com/en/",
       "title": "Eulsukdo žemės ir ekologinio meno konkursas",
       "first_seen": "2026-10-21",
-      "notification": "pending",
-      "deadline": "2026-11-22"
+      "notification": "sent",
+      "deadline": "2026-11-22",
+      "notified_at": "2026-10-21T13:40:20.608575+00:00"
     }
   ],
   "source_checks": [
