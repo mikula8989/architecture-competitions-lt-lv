@@ -1,10 +1,10 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-20**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-17 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-21**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-18 arba vėliau**.
 
 ## Turinys
 
-- 7 patvirtinti projektų konkursai: 5 Lietuvoje ir 2 Latvijoje.
+- 8 patvirtinti projektų konkursai: 5 Lietuvoje, 2 Latvijoje ir 1 Pietų Korėjoje (rastas Latvijos FOLD šaltinyje).
 - 49 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 5 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
 - 7 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
@@ -21,6 +21,12 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-21
+
+Patikrinti visi 49 LT/LV šaltiniai: 43 sėkmingai, 6 iš dalies. CVP IS paieškoje (pavadinimas „konkursas“, pateikimas nuo 2026-11-18) peržiūrėti visi 15 rezultatų abiejuose puslapiuose; EIS CONTEST/5 paieškoje – 2. Septynių ankstesnių konkursų terminai nepasikeitė. Pridėtas Eulsukdo žemės ir ekologinio meno konkursas Busane, Pietų Korėjoje, rastas Latvijos FOLD suvestinėje. Perskaitytos oficialios 64 p. sąlygos: iki 2026-11-22 24:00 KST (17:00 Lietuvoje), 20 mln. KRW kūrybos ir projektavimo honoraras, 380 mln. KRW realizavimo biudžetas, 1 mln. KRW II etapo pristatymo honoraras išskyrus galutinę sutartį sudarantį dalyvį. EUR perskaičiavimas netaikomas.
+
+TenderGlass tiesiogiai grąžino HTTP 403; IUB rezultatai neprieinami be JavaScript paieškos, dalinė Iepirkumi/LookUP mokamų bazių ir Alytaus/Utenos archyvų aprėptis. RDPAD šiandien pasiektas. Patikra pažymėta daline; detalės `automation-state.json` ir svetainės kataloge.
 
 ## Patikra · 2026-10-20
 
