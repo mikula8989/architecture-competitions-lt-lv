@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-22T06:02:21Z",
-    "finished_at": null,
+    "finished_at": "2026-10-22T06:17:34Z",
     "status": "partial",
     "checked_source_count": 49,
     "total_source_count": 49,
@@ -14,11 +14,20 @@
     "new_competition_keys": [
       "cvp:10070039"
     ],
-    "error_summary": "RDPAD paieškos peradresavimo kilpa; Rygos/Jelgavos/Kultūros ministerijos 503; IUB JavaScript apvalkalas; EIS pilnos paieškos sistemos klaida; ribota Iepirkumi/LookUP ir Alytaus/Utenos archyvų aprėptis. CVP IS peržiūrėta 18 rezultatų; naujas Birštonas patvirtintas oficialiomis sąlygomis ir TED.",
-    "notification_status": "pending",
+    "error_summary": "RDPAD paieškos peradresavimo kilpa; Rygos/Jelgavos/Kultūros ministerijos 503; IUB JavaScript apvalkalas; EIS pilnos paieškos sistemos klaida; ribota Iepirkumi/LookUP ir Alytaus/Utenos archyvų aprėptis. CVP IS peržiūrėta 18 rezultatų; naujas Birštonas patvirtintas oficialiomis sąlygomis ir TED. Tiesioginė konkurso domeno HTTPS patikra grąžino 503; GitHub Pages publikavimas sėkmingas. Naujo Birštono konkurso pristatymas patvirtintas sent ir boto Actions success.",
+    "notification_status": "sent",
     "site_verification": {
-      "index_readback": "pending",
-      "pages_conclusion": "pending"
+      "index_readback": "matched",
+      "validation": "JavaScript syntax and DOM-stub interaction checks passed: 9 rows, LT/LV/KR filters, search, saved selection, five tabs, CSV filename; no duplicates and all deadlines >=28 days.",
+      "pages_workflow_run_id": 39732910046,
+      "pages_conclusion": "success",
+      "live_site_read": "Direct HTTPS check returned HTTP 503; successful Pages deployment confirmed for index/state/README commit 0a2c87219ee4f8508b1b3884921850cbacf0bb5c."
+    },
+    "notification_workflow": {
+      "run_id": 39732959673,
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/39732959673"
     }
   },
   "known_competitions": [
@@ -80,8 +89,9 @@
       "key": "cvp:10070039",
       "title": "Birštono savivaldybės administracinis pastatas ir viešoji erdvė",
       "first_seen": "2026-10-22",
-      "notification": "pending",
-      "deadline": "2027-01-26"
+      "notification": "sent",
+      "deadline": "2027-01-26",
+      "notified_at": "2026-10-22T06:16:55.192449+00:00"
     }
   ],
   "source_checks": [
