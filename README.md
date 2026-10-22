@@ -1,10 +1,10 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-21**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-18 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-22**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-19 arba vėliau**.
 
 ## Turinys
 
-- 8 patvirtinti projektų konkursai: 5 Lietuvoje, 2 Latvijoje ir 1 Pietų Korėjoje (rastas Latvijos FOLD šaltinyje).
+- 9 patvirtinti projektų konkursai: 6 Lietuvoje, 2 Latvijoje ir 1 Pietų Korėjoje (rastas Latvijos FOLD šaltinyje).
 - 49 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 5 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
 - 7 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
@@ -21,6 +21,12 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-22
+
+Aplankyti visi 49 šaltiniai: 39 sėkmingai, 10 su apribojimais. CVP IS paieškoje nuo 2026-11-19 perskaityti visi 18 rezultatų per du puslapius. Rastas naujas Birštono savivaldybės administracinio pastato ir viešosios erdvės konkursas (CVP IS 10070039, TED 732019-2026), paskelbtas 2026-10-22. Perskaitytos oficialios sąlygos ir užduotis: pateikimas iki 2027-01-26 15:00 Europe/Vilnius, 25 000 € premijų fondas (12 000 / 8 000 / 5 000 €, premijų PVM nenurodytas), iki 396 290 € su PVM projektavimui ir projekto vykdymo priežiūrai. Apie 8 mln. € darbinis biudžetas apima projektavimą ir statybą bei mokesčius, todėl jo negalima sumuoti su projektavimo honoraru. Pagal sąlygų 51 p. fizinės ekspozicijos dalies nepateikimas nėra projekto atmetimo pagrindas. Aštuonių ankstesnių konkursų terminai nepasikeitė.
+
+Dalinė patikra: RDPAD paieškos peradresavimo kilpa; Rygos, Jelgavos ir Kultūros ministerijos HTTP 503; IUB JavaScript apvalkalas; EIS pilnos paieškos sistemos klaida (abi mokyklų kortelės tiesiogiai pasiektos); ribota Iepirkumi/LookUP ir Alytaus/Utenos archyvų aprėptis. TenderGlass šiandien pasiektas HTTP 200. Išsamios šaltinių būsenos saugomos puslapyje ir automation-state.json. Pranešimas tik naujam Birštono konkursui pristatomas per aimm bot eilę; išsiuntimo patvirtinimas saugomas deliveries.json ir automation-state.json.
 
 ## Patikra · 2026-10-21
 
