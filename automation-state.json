@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-23T05:58:05Z",
-    "finished_at": null,
+    "finished_at": "2026-10-23T06:15:01Z",
     "status": "partial",
     "checked_source_count": 50,
     "total_source_count": 50,
@@ -14,11 +14,25 @@
     "new_competition_keys": [
       "eis:184502"
     ],
-    "error_summary": "VVK tiesioginė prieiga HTTP 521 / timeout; RDPAD peradresavimo kilpa; Rygos/Jelgavos/Kultūros ministerijos HTTP 503; IUB JavaScript paieška ir EIS pilnos paieškos sistemos klaida; ribota Iepirkumi/LookUP, OPP bei Alytaus/Utenos archyvų aprėptis. Naujo Ulbrokos konkurso EIS/IUB ir sąlygų 1.5.1 data sutampa, tačiau pateikimo būdas ir voko pavyzdys prieštaringi; tai aiškiai pažymėta. Visų 49 ankstesnių šaltinių ir naujo 50-ojo patikra atlikta, bet pilna aprėptis nepatvirtinta.",
-    "notification_status": "pending",
+    "error_summary": "VVK tiesioginė prieiga HTTP 521 / timeout; RDPAD peradresavimo kilpa; Rygos/Jelgavos/Kultūros ministerijos HTTP 503; IUB JavaScript paieška ir EIS pilnos paieškos sistemos klaida; ribota Iepirkumi/LookUP, OPP bei Alytaus/Utenos archyvų aprėptis. Naujo Ulbrokos konkurso EIS/IUB ir sąlygų 1.5.1 data sutampa, tačiau pateikimo būdas ir voko pavyzdys prieštaringi; tai aiškiai pažymėta. Visų 49 ankstesnių šaltinių ir naujo 50-ojo patikra atlikta, bet pilna aprėptis nepatvirtinta. Tiesioginė viešo domeno HTTPS patikra grąžino 503, alternatyvus paieškos įrankis puslapio taip pat nepasiekė. GitHub Pages publikavimas sėkmingas. Ulbrokos pristatymas patvirtintas deliveries sent ir boto Actions success.",
+    "notification_status": "sent",
     "site_verification": {
-      "index_readback": "pending",
-      "pages_conclusion": "pending"
+      "index_readback": "matched",
+      "state_readback": "matched before notification; final update verified separately",
+      "readme_readback": "matched",
+      "outbox_readback": "matched",
+      "validation": "JavaScript syntax and DOM-stub interaction checks passed: 10 rows, LT/LV/KR filters, search, saved selection, five tabs, source filter and CSV filename. No duplicates; all deadlines >=28 days. Styles unchanged; CNAME confirmed. No browser rendering claim.",
+      "index_commit": "6856764a8110bec2b5841332c1548130e025ab17",
+      "pages_workflow_run_id": 39910213287,
+      "pages_conclusion": "success",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/39910213287",
+      "live_site_read": "Direct HTTPS returned HTTP 503; alternative web tool could not access the domain. Pages deployment for commit 4e80095c31065c315906c6cfc5b023915d1f9ef2 succeeded."
+    },
+    "notification_workflow": {
+      "run_id": 39910198722,
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/39910198722"
     }
   },
   "known_competitions": [
@@ -88,8 +102,9 @@
       "key": "eis:184502",
       "title": "Ulbrokos socialinių paslaugų, meno ir muzikos mokyklos kompleksas",
       "first_seen": "2026-10-23",
-      "notification": "pending",
-      "deadline": "2026-12-21"
+      "notification": "sent",
+      "deadline": "2026-12-21",
+      "notified_at": "2026-10-23T06:13:37.132309+00:00"
     }
   ],
   "source_checks": [
