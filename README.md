@@ -1,11 +1,11 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-22**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-19 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-23**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-20 arba vėliau**.
 
 ## Turinys
 
-- 9 patvirtinti projektų konkursai: 6 Lietuvoje, 2 Latvijoje ir 1 Pietų Korėjoje (rastas Latvijos FOLD šaltinyje).
-- 49 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 5 nauji).
+- 10 patvirtintų projektų konkursų: 6 Lietuvoje, 3 Latvijoje ir 1 Pietų Korėjoje (rastas Latvijos FOLD šaltinyje).
+- 50 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 6 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
 - 7 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
@@ -21,6 +21,12 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-23
+
+Aplankyti visi 49 ankstesni katalogo šaltiniai ir nauja OPP IUB duomenų paieška: iš viso 50, 37 sėkmingai, 13 iš dalies. CVP IS paieškoje nuo 2026.11.20 perskaitytas 21 rezultatas trijuose puslapiuose. Naujas Ulbrokos kompleksas patvirtintas pagal EIS, IUB ir perskaitytą DOCX: iki 2026.12.21 12:00, 18 000 € prizų su PVM. Oficialiose sąlygose ir IUB skiriasi pateikimo būdas, voko pavyzdyje likusi 11.19 data; neatitikimai pažymėti įraše. Devynių ankstesnių konkursų terminai nepasikeitė. Tauralaukio atsakyme patikslintas brėžinio ir maketo mastelis bei pridėtos SHP ribos. FOLD spalio #4 parodos, gaminių dizainas ir finansavimo kvietimai atskirti. VVK tiesioginė prieiga 521 / timeout, RDPAD peradresavimo kilpa, Rygos/Jelgavos/Kultūros ministerijos 503, IUB ir EIS bendros paieškos aprėptis ribota; taip pat mokami katalogai, OPP ir savivaldybių archyvai. Detalės kataloge.
+
+Ulbrokos bendrojo komplekso koncepcijos konkursui taikoma ankstesnio ≥3 viešųjų pastatų komplekso projektavimo patirtis. Sąlygų 1.5.1 p. fizinio pateikimo terminas – 2026-12-21 12:00 Europe/Riga; IUB nurodo elektroninį pateikimą, voko pavyzdyje yra 11.19 data ir MNP numeris. Prieš teikiant būtina gauti užsakovo paaiškinimą. Prizai 18 000 € su PVM (9 000 / 5 000 / 4 000 €); projektavimo ir autorinės priežiūros kaina nepatvirtinta. Apie 500 000 € investicijų suma taikoma tik I etapo dienos centro statybai ir gretimai aplinkai; PVM nenurodytas. Tai nėra viso komplekso ar projektavimo biudžetas. Pranešimas tik naujam Ulbrokos konkursui perduodamas aimm bot eilei; faktinis pristatymas tikrinamas deliveries ir Actions.
 
 ## Patikra · 2026-10-22
 
