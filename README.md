@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-23**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-20 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-24**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-21 arba vėliau**.
 
 ## Turinys
 
@@ -21,6 +21,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-24
+
+Aplankyti visi 50 katalogo LT/LV šaltinių: 38 sėkmingai, 12 iš dalies. Visi 10 esamų konkursų oficialūs terminai nepasikeitė ir atitinka ≥28 dienas. CVP IS paieškoje nuo 2026.11.21 perskaityti visi 19 rezultatų dviejuose puslapiuose; šeši tinkami konkursai jau sąraše. EIS patikrintos trys Latvijos kortelės ir dokumentų metaduomenys, Ulbrokos naujo paaiškinimo dėl pateikimo neatitikimų nėra. VVK naujienos ir apžvalga šiandien tiesiogiai pasiekti HTTP 200: S. Daukanto 10.22 straipsnis pristato jau pateiktus darbus. FOLD #4 kvietimai peržiūrėti, naujo tinkamo projekto konkurso nepatvirtinta. Pranešimų eilė nepildyta. RDPAD tiesioginės prieigos peradresavimo kilpa; Rygos, Jelgavos, Kultūros ministerijos ir vienos OPP užklausos 503; ribota IUB/EIS bendrų paieškų, mokamų katalogų ir Alytaus/Utenos archyvų aprėptis. Detalės prie kiekvieno šaltinio.
 
 ## Patikra · 2026-10-23
 
