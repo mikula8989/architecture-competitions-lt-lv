@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-24T06:01:44Z",
-    "finished_at": null,
+    "finished_at": "2026-10-24T06:08:10Z",
     "status": "partial",
     "checked_source_count": 50,
     "total_source_count": 50,
@@ -13,10 +13,18 @@
     "partial_source_count": 12,
     "new_competition_keys": [],
     "notification_status": "not_needed",
-    "error_summary": "RDPAD tiesioginės prieigos peradresavimo kilpa; Rygos/Jelgavos/Kultūros ministerijos ir OPP kraštovaizdžio užklausos HTTP 503; IUB/EIS bendrų paieškų patvirtintų rezultatų aprėptis ribota; Iepirkumi paieškos adresas 404, ribota mokamų Iepirkumi/LookUP ir Alytaus/Utenos archyvų aprėptis. VVK tiesioginė prieiga atkurta. Ulbrokos pateikimo neatitikimai neišaiškinti nauju dokumentu. Viešasis domenas tikrinant grąžino HTTP 503. Vilniaus savivaldybės papildomos paieškos adresas grąžino 404; EIS AJAX užklausa nepraėjo CSRF patikros.",
+    "error_summary": "RDPAD tiesioginės prieigos peradresavimo kilpa; Rygos/Jelgavos/Kultūros ministerijos ir OPP kraštovaizdžio užklausos HTTP 503; IUB/EIS bendrų paieškų patvirtintų rezultatų aprėptis ribota; Iepirkumi paieškos adresas 404, ribota mokamų Iepirkumi/LookUP ir Alytaus/Utenos archyvų aprėptis. VVK tiesioginė prieiga atkurta. Ulbrokos pateikimo neatitikimai neišaiškinti nauju dokumentu. Viešasis domenas tikrinant grąžino HTTP 503. Vilniaus savivaldybės papildomos paieškos adresas grąžino 404; EIS AJAX užklausa nepraėjo CSRF patikros. GitHub main įrašymas ir nuskaitymas patvirtinti, GitHub Pages Actions success. Alternatyvi domeno prieiga per paieškos įrankį taip pat nepavyko. Naujų konkursų nėra, botui nieko neperduota.",
     "site_verification": {
-      "index_readback": "pending",
-      "pages_conclusion": "pending"
+      "index_readback": "matched",
+      "state_readback": "matched before final status; final status verified separately",
+      "readme_readback": "matched",
+      "validation": "JavaScript syntax and DOM-stub interaction checks passed: 10 unique competitions, 50 unique sources, all deadlines >=28 days, LT/LV/KR filters, search, shortlist, five tabs, source filter and CSV date. Styles and CNAME unchanged. No browser rendering claim.",
+      "index_commit": "569be6fc91d5b253f35c6cbec56c3545cb1e54a5",
+      "pages_workflow_run_id": 40068925510,
+      "pages_conclusion": "success",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/40068925510",
+      "live_site_read": "Direct HTTPS returned HTTP 503; alternate web tool also could not access the domain. Pages deployment for commit 49034b223520b2ca07a22c93b30541d114661376 succeeded.",
+      "notifications": "No new confirmed competitions; outbox and deliveries unchanged; no messages queued."
     }
   },
   "known_competitions": [
