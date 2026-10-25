@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-25T06:55:44Z",
-    "finished_at": null,
+    "finished_at": "2026-10-25T07:00:47Z",
     "status": "partial",
     "checked_source_count": 51,
     "total_source_count": 51,
@@ -13,10 +13,18 @@
     "partial_source_count": 12,
     "new_competition_keys": [],
     "notification_status": "not_needed",
-    "error_summary": "RDPAD peradresavimo kilpa ir alternatyvus timeout; Rygos/Jelgavos/Kultūros ministerijos bei OPP CPV 71200000-0 ir 71400000-2 HTTP 503; IUB JavaScript apvalkalas; EIS bendros paieškos AJAX CSRF patikros klaida; Vilniaus ir Iepirkumi paieškos adresai 404; ribota mokamų katalogų ir Alytaus/Utenos archyvų aprėptis. Visos 10 konkursų oficialios kortelės pasiektos. Ulbrokos neatitikimų paaiškinimo nėra. Viešo domeno patikra grąžino HTTP 503.",
+    "error_summary": "RDPAD peradresavimo kilpa ir alternatyvus timeout; Rygos/Jelgavos/Kultūros ministerijos bei OPP CPV 71200000-0 ir 71400000-2 HTTP 503; IUB JavaScript apvalkalas; EIS bendros paieškos AJAX CSRF patikros klaida; Vilniaus ir Iepirkumi paieškos adresai 404; ribota mokamų katalogų ir Alytaus/Utenos archyvų aprėptis. Visos 10 konkursų oficialios kortelės pasiektos. Ulbrokos neatitikimų paaiškinimo nėra. Viešo domeno patikra grąžino HTTP 503. GitHub main įrašymas ir nuskaitymas patvirtinti, GitHub Pages Actions success. Pakartotinė tiesioginė domeno patikra po įrašymo grąžino 503, alternatyvi peržiūra taip pat nepasiekiama. Naujų konkursų nėra, botui nieko neperduota.",
     "site_verification": {
-      "index_readback": "pending",
-      "pages_conclusion": "pending"
+      "index_readback": "matched",
+      "state_readback": "matched before final status; final status verified separately",
+      "readme_readback": "matched",
+      "validation": "JavaScript syntax and DOM-stub interaction checks passed: 10 unique competitions, 51 unique sources, deadlines >=28 days (Eulsukdo exactly 28), LT/LV/KR filters, search, shortlist, five tabs, source filter and CSV date. Styles and CNAME unchanged. No browser rendering claim.",
+      "index_commit": "a451128cf23d11ca53592f6991fcd206ffca94ba",
+      "pages_workflow_run_id": 40171104779,
+      "pages_conclusion": "success",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/40171104779",
+      "live_site_read": "Direct HTTPS after writing returned HTTP 503; alternate web tool could not access the domain. Pages deployment for commit 801d73c49c8072b7bc8335fc61ce645c2ed3ace6 succeeded.",
+      "notifications": "No new confirmed competitions; outbox and deliveries read back unchanged; no messages queued."
     }
   },
   "known_competitions": [
