@@ -1,11 +1,11 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-24**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-21 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-25**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-22 arba vėliau**.
 
 ## Turinys
 
 - 10 patvirtintų projektų konkursų: 6 Lietuvoje, 3 Latvijoje ir 1 Pietų Korėjoje (rastas Latvijos FOLD šaltinyje).
-- 50 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 6 nauji).
+- 51 Lietuvos ir Latvijos šaltinio katalogas (44 pradiniai ir 7 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
 - 7 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
@@ -21,6 +21,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-25
+
+Aplankyti visi 50 ankstesnių katalogo šaltinių ir naujas oficialus „Atradimų“ konkursų puslapis: iš viso 51, iš jų 39 sėkmingai ir 12 iš dalies. Visi 10 esamų konkursų oficialūs terminai nepasikeitė, Eulsukdo šiandien liko lygiai 28 dienos. Alytaus klausimų terminas jau pasibaigęs, tačiau darbų pateikimas atviras. CVP IS paieškoje nuo 2026.11.22 perskaityti visi 19 rezultatų dviejuose puslapiuose, patikrintas tuščias trečias; šeši tinkami konkursai jau sąraše. Trijų Latvijos konkursų EIS kortelės ir dokumentų metaduomenys nepasikeitę; Ulbrokos pateikimo neatitikimų paaiškinimo nepaskelbta. „Atradimų takui“ registracija baigėsi 10.11, darbai iki 11.15; 11.23 yra balsavimo pabaiga. Klaipėdos trijų gydymo įstaigų puslapis skelbia apie 2 jau pateiktus projektus. Naujų tinkamų konkursų nepatvirtinta, boto eilė nepildyta. RDPAD peradresavimas, savivaldybių/ministerijos ir dviejų OPP užklausų 503, IUB/EIS paieškų bei mokamų katalogų ir archyvų ribos pažymėtos kataloge.
 
 ## Patikra · 2026-10-24
 
