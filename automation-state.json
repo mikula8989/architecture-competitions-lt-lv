@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-26T07:00:08Z",
-    "finished_at": null,
+    "finished_at": "2026-10-26T07:12:41Z",
     "status": "partial",
     "checked_source_count": 51,
     "total_source_count": 51,
@@ -26,10 +26,18 @@
       }
     ],
     "notification_status": "not_needed",
-    "error_summary": "Tiesioginė patikra nutrūko dėl tinklo prieigos politikos; likusi patikra atlikta per žiniatinklio įrankį. 9 šaltiniai nepasiekiami (timeout, HTTP 403/406 arba inaccessible), 10 šaltinių aprėptis dalinė, įskaitant CVP IS pilną paiešką, IUB/EIS, mokamus katalogus, SA/CityNow paieškas ir savivaldybių archyvus. Ulbrokos pirminiai EIS/IUB nepasiekiami – laikinai watch. Dalies dokumentų, awards ir ankstesnių watch pakartotinė pilna patikra neužbaigta; patvirtinimo datos neperrašytos. Viešasis domenas žiniatinklio įrankiu nepasiekiamas.",
+    "error_summary": "Tiesioginė patikra nutrūko dėl tinklo prieigos politikos; likusi patikra atlikta per žiniatinklio įrankį. 9 šaltiniai nepasiekiami (timeout, HTTP 403/406 arba inaccessible), 10 šaltinių aprėptis dalinė, įskaitant CVP IS pilną paiešką, IUB/EIS, mokamus katalogus, SA/CityNow paieškas ir savivaldybių archyvus. Ulbrokos pirminiai EIS/IUB nepasiekiami – laikinai watch. Dalies dokumentų, awards ir ankstesnių watch pakartotinė pilna patikra neužbaigta; patvirtinimo datos neperrašytos. Viešasis domenas žiniatinklio įrankiu nepasiekiamas. GitHub main įrašymas ir nuskaitymas patvirtinti, Pages Actions success. Pakartotinė domeno peržiūra po įrašymo taip pat neprieinama; šiandien netvirtinamas konkretus HTTP 503 kodas. Automatizacija palikta veikti.",
     "site_verification": {
-      "index_readback": "pending",
-      "pages_conclusion": "pending"
+      "index_readback": "matched",
+      "state_readback": "matched before final status; final status verified separately",
+      "readme_readback": "matched",
+      "validation": "JavaScript syntax and DOM-stub checks passed for 8 unique active competitions, 51 sources, all active deadlines >=28 days, LT/LV filters, search, shortlist, five tabs, source filtering and CSV date. KR filter removed because no KR competition remains active. Styles and CNAME unchanged. Full last confirmed records of Eulsukdo and Ulbroka retained in state. No browser rendering claim.",
+      "index_commit": "7d7c1ee3520537752acfb0a883423936357ef64d",
+      "pages_workflow_run_id": 40284270171,
+      "pages_conclusion": "success",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/40284270171",
+      "live_site_read": "Public domain could not be accessed by the web tool before or after writing. No new HTTP 503 claim made; latest result is inaccessible. Pages deployment for commit 0cfef186af571fdbd3bafdefa381aac5c5af72e3 succeeded.",
+      "notifications": "No new confirmed competitions; outbox and deliveries read back unchanged; no messages queued."
     }
   },
   "known_competitions": [
