@@ -1,13 +1,13 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-25**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-22 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-26**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-23 arba vėliau**.
 
 ## Turinys
 
-- 10 patvirtintų projektų konkursų: 6 Lietuvoje, 3 Latvijoje ir 1 Pietų Korėjoje (rastas Latvijos FOLD šaltinyje).
+- 8 pagrindinėje lentelėje palikti projektų konkursai: 6 Lietuvoje ir 2 Latvijoje.
 - 51 Lietuvos ir Latvijos šaltinio katalogas (44 pradiniai ir 7 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
-- 7 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
+- 8 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
 
 ## Naudojimas
@@ -21,6 +21,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-26
+
+Bandyta patikrinti visus 51 šaltinį: 32 pasiekti pakankama apimtimi, 10 iš dalies ir 9 nepasiekiami. Tiesioginė patikra nutrūko dėl prieigos ribojimo; išsaugoti 33 pradinių puslapių tekstai, likusieji šaltiniai ir oficialios kortelės tikrinti alternatyviu žiniatinklio įrankiu. CVP IS pilnos paieškos rezultatai nepasiekiami, todėl visos paieškos užbaigimo netvirtiname. Aštuonių pagrindinėje lentelėje paliktų konkursų terminai patvirtinti oficialiose kortelėse. Eulsukdo terminas 11.22 nepasikeitė, bet liko tik 27 dienos – iškeltas į pastabas. Ulbrokos EIS ir IUB nepasiekiami, todėl įrašas laikinai stebėjime su paskutine 10.25 patvirtinta informacija, o ne pažymėtas atšauktu. Dalies dokumentų sąrašų ir kitų stebimų kvietimų pakartotinės patikros užbaigti nepavyko; jų ankstesnės patikros datos išsaugotos. Naujų tinkamų konkursų šioje dalinėje patikroje nepatvirtinta; pranešimų eilė nepildyta.
 
 ## Patikra · 2026-10-25
 
