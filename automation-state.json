@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-27T06:58:22Z",
-    "finished_at": null,
+    "finished_at": "2026-10-27T07:04:33Z",
     "status": "partial",
     "checked_source_count": 51,
     "total_source_count": 51,
@@ -21,10 +21,18 @@
       }
     ],
     "notification_status": "not_needed",
-    "error_summary": "5 šaltiniai nepasiekiami: Stacijas/RRTS HTTP 406, Jelgavos pirkimų rubrikos timeout, ZZ paieška ir OPP inaccessible. 13 šaltinių aprėptis dalinė, įskaitant CVP IS pilnos paieškos rezultatus, IUB/EIS, dalį savivaldybių ir mokamų katalogų bei SA/CityNow paieškas. Ulbrokos oficialūs EIS/IUB nepasiekiami, lieka watch. Dalies dokumentų sąrašų, Filaretų ir „Erdvės, kurios sugrįžta“ pakartotinė pilna patikra nepavyko. Viešasis domenas žiniatinklio įrankiu nepasiekiamas.",
+    "error_summary": "5 šaltiniai nepasiekiami: Stacijas/RRTS HTTP 406, Jelgavos pirkimų rubrikos timeout, ZZ paieška ir OPP inaccessible. 13 šaltinių aprėptis dalinė, įskaitant CVP IS pilnos paieškos rezultatus, IUB/EIS, dalį savivaldybių ir mokamų katalogų bei SA/CityNow paieškas. Ulbrokos oficialūs EIS/IUB nepasiekiami, lieka watch. Dalies dokumentų sąrašų, Filaretų ir „Erdvės, kurios sugrįžta“ pakartotinė pilna patikra nepavyko. Viešasis domenas žiniatinklio įrankiu nepasiekiamas. GitHub main įrašymas ir nuskaitymas patvirtinti; Pages Actions success. Pakartotinė viešo domeno peržiūra po įrašymo taip pat neprieinama, konkretaus HTTP 503 kodo šiandien netvirtiname. Naujų konkursų pranešimų nekurta; tęstinė automatizacija palikta veikti.",
     "site_verification": {
-      "index_readback": "pending",
-      "pages_conclusion": "pending"
+      "index_readback": "matched",
+      "state_readback": "matched before final status; final status verified separately",
+      "readme_readback": "matched",
+      "validation": "JavaScript syntax and DOM-stub interaction checks passed: 7 unique active competitions, 51 unique sources, active deadlines >=28 days, LT/LV filters, search, shortlist, five tabs, source filter and CSV date. Styles and CNAME unchanged. Full prior Alytus record retained. No browser rendering claim.",
+      "index_commit": "b128310e607887367c3771af163bbe41f1ca140b",
+      "pages_workflow_run_id": 40464799545,
+      "pages_conclusion": "success",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/40464799545",
+      "live_site_read": "Public domain could not be accessed by the web tool before or after writing. Pages deployment for commit 8c48c68332950b37ce19349f1ab914abd77f812b succeeded. No current HTTP 503 assertion.",
+      "notifications": "No new confirmed competitions; outbox and deliveries read back unchanged; no messages queued."
     }
   },
   "known_competitions": [
