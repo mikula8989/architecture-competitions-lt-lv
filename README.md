@@ -1,10 +1,10 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-26**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-23 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-27**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-24 arba vėliau**.
 
 ## Turinys
 
-- 8 pagrindinėje lentelėje palikti projektų konkursai: 6 Lietuvoje ir 2 Latvijoje.
+- 7 pagrindinėje lentelėje palikti projektų konkursai: 5 Lietuvoje ir 2 Latvijoje.
 - 51 Lietuvos ir Latvijos šaltinio katalogas (44 pradiniai ir 7 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
 - 8 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
@@ -21,6 +21,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-27
+
+Bandyta patikrinti visus 51 LT/LV šaltinį: 33 pasiekti pakankama apimtimi, 13 iš dalies, 5 nepasiekiami. Peržiūrėti visi katalogo adresai, aktualios konkursų skiltys, papildomos paieškos ir oficialios esamų konkursų kortelės. Septynių lentelėje likusių konkursų terminai nepasikeitė. Alytaus bibliotekos 11.23 terminas patvirtintas, bet liko tik 27 dienos – iškeltas į atrankos pastabas, istorija išsaugota. Ulbrokos pirminiai EIS/IUB šaltiniai nepasiekiami, tad įrašas lieka stebėjime su ankstesne patvirtinta informacija. RDPAD, Rygos ir Kultūros ministerijos pradžios puslapiai šiandien pasiekti; ministerijos konkursų rubrika perskaityta. RDPAD ir Rygos paieškos, CVP IS pilnos paieškos rezultatai bei dalis oficialių dokumentų sąrašų nepasiekiami. Abu interjerų apdovanojimų terminai pakartotinai patikrinti. CAFx teberodo priėmimą uždarytą, nors kalendoriuje būsima data; SIRIN ir Panerių būsena nepasikeitė. Nepasiektų „Erdvės, kurios sugrįžta“ ir Filaretų įrašų ankstesnės datos išsaugotos. Naujo tinkamo konkurso šioje dalinėje patikroje nepatvirtinta, boto eilė nepildyta.
 
 ## Patikra · 2026-10-26
 
