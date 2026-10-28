@@ -1,13 +1,13 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-27**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-24 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-28**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-25 arba vėliau**.
 
 ## Turinys
 
 - 7 pagrindinėje lentelėje palikti projektų konkursai: 5 Lietuvoje ir 2 Latvijoje.
-- 51 Lietuvos ir Latvijos šaltinio katalogas (44 pradiniai ir 7 nauji).
+- 52 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 8 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
-- 8 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
+- 9 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
 
 ## Naudojimas
@@ -21,6 +21,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-28
+
+Bandyta patikrinti visus 51 ankstesnį LT/LV šaltinį ir papildomas paieškas; katalogas papildytas „Pirkimų Radaru“ iki 52 šaltinių: 34 pasiekti pakankama vieša apimtimi, 13 iš dalies, 5 nepasiekiami. Septynių aktualių konkursų oficialių kortelių terminai nepasikeitė. Tauralaukiui liko lygiai 28 dienos; Alytaus bibliotekai 26, Eulsukdo 25, todėl pastarieji lieka atrankos pastabose. Ulbrokos pirminiai EIS/IUB ir dokumentai nepasiekiami – stebėjime, paskutiniai patvirtinti duomenys iš 10.25 išsaugoti. Jelgavos oficialaus pirkimų puslapio prieiga atsistatė; abiejų mokyklų 11.30 11:00 terminas patvirtintas ir EIS, ir savivaldybės kortelėse. Naujas 10.27 Birštono LAS skelbimas yra tas pats jau įtrauktas konkursas. Abu apdovanojimų terminai patikrinti. CAFx būsena prieštaringa, „Ateities biuro“ etapų metai ir naujas priėmimas neaiškūs, todėl tik stebėjime. Stacijas/RRTS grąžina HTTP 406, Jelgavniekiem HTTP 403, ZZ ir OPP nepasiekiami. CVP IS pilna paieška, IUB/EIS bendros paieškos, dalis dokumentų sąrašų ir pilnų redakcijų bei dalies portalų paieškos nepatvirtinti. Kai kurie žiniatinklio įrankio pateikti puslapiai yra ankstesnio nuskaitymo kopijos; patikra negarantuoja naujesnių pakeitimų aprėpties. Nepasiektų „Erdvės, kurios sugrįžta“ ir Filaretų patvirtinimo datos neperrašytos. Naujo tinkamo patvirtinto projekto konkurso neaptikta šios dalinės patikros apimtyje; boto eilė nepildoma.
 
 ## Patikra · 2026-10-27
 
