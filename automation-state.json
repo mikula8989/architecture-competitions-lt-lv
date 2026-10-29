@@ -96,7 +96,11 @@
       "first_seen": "2026-10-21",
       "notification": "sent",
       "deadline": "2026-11-22",
-      "notified_at": "2026-10-21T13:40:20.608575+00:00"
+      "notified_at": "2026-10-21T13:40:20.608575+00:00",
+      "eligibility": "excluded_geography",
+      "project_country": "KR",
+      "exclusion_reason": "project_outside_LT_LV",
+      "excluded_at": "2026-10-29"
     },
     {
       "key": "cvp:10070039",
@@ -120,7 +124,11 @@
       "first_seen": "2026-10-29",
       "notification": "sent",
       "deadline": "2027-02-28",
-      "notified_at": "2026-10-29T07:06:56.208632+00:00"
+      "notified_at": "2026-10-29T07:06:56.208632+00:00",
+      "eligibility": "excluded_geography",
+      "project_country": "FR",
+      "exclusion_reason": "project_outside_LT_LV",
+      "excluded_at": "2026-10-29"
     }
   ],
   "source_checks": [
@@ -557,10 +565,11 @@
       "key": "https://eulsukdo-ecoart.com/en/",
       "checked_at": "2026-10-29T07:04:59.708456+00:00",
       "deadline": "2026-11-22",
-      "status": "below_minimum_days",
+      "status": "excluded_geography",
       "official_url": "https://eulsukdo-ecoart.com/en/",
       "note": "Oficialus 11.22 24:00 KST terminas ir pranešimų puslapis patikrinti; 24 dienos, lieka audit.",
-      "days_remaining": 24
+      "days_remaining": 24,
+      "previous_status": "below_minimum_days"
     },
     {
       "key": "cvp:10070039",
@@ -585,10 +594,11 @@
       "key": "https://prixw.com/eng2027",
       "checked_at": "2026-10-29T07:04:59.708456+00:00",
       "deadline": "2027-02-28",
-      "status": "confirmed",
+      "status": "excluded_geography",
       "official_url": "https://prixw.com/eng2027",
       "days_remaining": 122,
-      "note": "Perskaitytos viešos 2027 m. FR/EN taisyklės ir FAQ. Registracija iki 02.01, galutinis pateikimas 02.28, premijos 17 000 €. Laiko juosta neįvardyta; teikimo priemonę reikia patvirtinti. Senas atskiras PDF nepasiekiamas."
+      "note": "Perskaitytos viešos 2027 m. FR/EN taisyklės ir FAQ. Registracija iki 02.01, galutinis pateikimas 02.28, premijos 17 000 €. Laiko juosta neįvardyta; teikimo priemonę reikia patvirtinti. Senas atskiras PDF nepasiekiamas.",
+      "previous_status": "confirmed"
     }
   ],
   "run_history": [
@@ -1006,5 +1016,33 @@
       "registration": "Atskiro ankstesnio privalomos registracijos termino patikrintame skelbime nenustatyta; CVP IS paskyra būtina pateikimui.",
       "verification_note": "2026.10.28 patvirtintas oficialios kortelės terminas. Pilna dokumentų pakeitimų patikra ribota; kitos sąlygos ir sumos pagal anksčiau perskaitytus dokumentus."
     }
+  },
+  "geographic_scope": {
+    "project_countries": [
+      "LT",
+      "LV"
+    ],
+    "criterion": "physical_project_location",
+    "exclude_other_countries_from": [
+      "competitions",
+      "awards",
+      "watch",
+      "audit",
+      "notifications"
+    ],
+    "updated_at": "2026-10-29T09:48:17.821Z"
+  },
+  "scope_update": {
+    "updated_at": "2026-10-29T09:48:17.821Z",
+    "active_competition_count": 6,
+    "watch_count": 7,
+    "removed_competition_keys": [
+      "https://prixw.com/eng2027"
+    ],
+    "removed_watch_titles": [
+      "Husum Nord Pavilion · CAFx 2027",
+      "The Mobile Theatre Pavilion · CAFx 2027"
+    ],
+    "note": "User restricted physical project locations to LT/LV. Historical check timestamps and sent delivery records preserved; no new source audit performed."
   }
 }
