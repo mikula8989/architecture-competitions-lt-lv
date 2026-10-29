@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-29T06:56:12Z",
-    "finished_at": null,
+    "finished_at": "2026-10-29T07:08:26Z",
     "status": "partial",
     "checked_source_count": 52,
     "total_source_count": 52,
@@ -22,11 +22,25 @@
         "days_remaining": 27
       }
     ],
-    "notification_status": "pending",
-    "error_summary": "4 šaltiniai nepasiekiami: Stacijas/RRTS HTTP 406, ZZ ir OPP inaccessible. 14 šaltinių aprėptis dalinė: CVP IS pilna paieška, IUB/EIS, dalies savivaldybių ir portalų paieškos, mokami katalogai bei Structum kvietimai. Ulbrokos EIS/IUB ir DOCX nepasiekiami, lieka watch. Pilna dokumentų redakcijų patikra nepatvirtinta, dalis puslapių kopijų senesnės. Naujo Prix W sąlygos ir FAQ perskaitytos HTML, atskiras senas PDF nepasiekiamas. Viešasis domenas neprieinamas žiniatinklio įrankiui.",
+    "notification_status": "sent",
+    "error_summary": "4 šaltiniai nepasiekiami: Stacijas/RRTS HTTP 406, ZZ ir OPP inaccessible. 14 šaltinių aprėptis dalinė: CVP IS pilna paieška, IUB/EIS, dalies savivaldybių ir portalų paieškos, mokami katalogai bei Structum kvietimai. Ulbrokos EIS/IUB ir DOCX nepasiekiami, lieka watch. Pilna dokumentų redakcijų patikra nepatvirtinta, dalis puslapių kopijų senesnės. Naujo Prix W sąlygos ir FAQ perskaitytos HTML, atskiras senas PDF nepasiekiamas. Viešasis domenas neprieinamas žiniatinklio įrankiui. GitHub main įrašymas ir nuskaitymas patvirtinti. Sėkmingo Pages publikavimo šaltinis sutampa su atnaujintu index.html. Viešasis domenas po įrašymo taip pat nepasiekiamas; konkretaus HTTP kodo šiandien netvirtiname. Prix W pristatymas patvirtintas deliveries sent ir boto Actions success. Tęstinė automatizacija patikrinta įjungta.",
     "site_verification": {
-      "index_readback": "pending",
-      "pages_conclusion": "pending"
+      "index_readback": "matched",
+      "state_readback": "matched before final status; final status verified separately",
+      "readme_readback": "matched",
+      "outbox_readback": "matched",
+      "validation": "JavaScript syntax and DOM-stub interaction checks passed: 7 unique active competitions (LT4/LV2/FR1), 52 unique sources, active deadlines >=28 days, LT/LV/FR filters, search, shortlist, five tabs, 9 watch cards, source filter and CSV date. Prix W eligibility/122 days and pending notification checked. Full Tauralaukis record and baseline status preserved. Styles and CNAME unchanged. No browser rendering claim.",
+      "index_commit": "4fa3467d438b3739bf53e5a051c180fd9c110286",
+      "pages_workflow_run_id": 40833359611,
+      "pages_conclusion": "success",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/40833359611",
+      "live_site_read": "Public domain could not be accessed by the web tool before or after writing. Pages deployment for commit 046998b7a11c2eaa97936df74f0b01825f310552 succeeded; its index.html was fetched and exactly matches the updated site. No current HTTP 503 assertion."
+    },
+    "notification_workflow": {
+      "run_id": 40833339191,
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/40833339191"
     }
   },
   "known_competitions": [
@@ -104,8 +118,9 @@
       "key": "https://prixw.com/eng2027",
       "title": "Prix W 2027 · Château d’If laikinos architektūros idėjos",
       "first_seen": "2026-10-29",
-      "notification": "pending",
-      "deadline": "2027-02-28"
+      "notification": "sent",
+      "deadline": "2027-02-28",
+      "notified_at": "2026-10-29T07:06:56.208632+00:00"
     }
   ],
   "source_checks": [
