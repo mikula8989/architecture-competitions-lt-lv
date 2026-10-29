@@ -2,12 +2,16 @@
 
 Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-29**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-26 arba vėliau**.
 
+## Geografinė atranka
+
+Įtrauk tik konkursus, kurių projektuojamas objektas / projekto vieta yra Lietuvoje (LT) arba Latvijoje (LV). Atranką lemia fizinė projekto vieta, o ne skelbimo kalba, portalo, organizatoriaus ar dalyvių šalis. Kitose šalyse esančių objektų konkursų neįtrauk į competitions, awards, watch ar viešas atrankos pastabas ir nesiųsk jų per aimm botą. Nepatvirtinus objekto vietos Lietuvoje ar Latvijoje, konkurso neįtrauk. Mišrius LT/LV portalus ir toliau tikrink, tačiau jų užsienio kvietimus praleisk.
+
 ## Turinys
 
-- 7 pagrindinėje lentelėje palikti projektų konkursai: 4 Lietuvoje, 2 Latvijoje ir 1 Prancūzijoje, rastas LV FOLD šaltinyje.
+- 6 pagrindinėje lentelėje palikti projektų konkursai: 4 Lietuvoje ir 2 Latvijoje.
 - 52 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 8 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
-- 9 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
+- 7 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
 
 ## Naudojimas
@@ -24,7 +28,7 @@ Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masy
 
 ## Patikra · 2026-10-29
 
-Bandyta patikrinti visus 52 LT/LV šaltinius: 34 pasiekti pakankama vieša apimtimi, 14 iš dalies, 4 nepasiekiami. Tauralaukio 11.25 13:00 terminas nepasikeitė, bet liko tik 27 dienos – visas įrašas perkeltas į istoriją ir atrankos pastabas. Kitų šešių lentelėje likusių konkursų terminai patvirtinti. Naujoje FOLD 10.29 suvestinėje rastas „Prix W 2027“ Prancūzijoje; perskaitytos oficialios FR/EN taisyklės ir FAQ: registracija 02.01, darbai iki 02.28, 17 000 € premijų. Tik studentams ir po 2024.01.01 diplomuotiems architektams; nurodyti pateikimo priemonių ir laiko juostos apribojimai. FOLD 02.22 pataisyta pagal pirminį šaltinį. Iš viso 7 aktualūs projektų konkursai: LT 4, LV 2, FR 1. Abu apdovanojimų terminai pakartotinai patikrinti. SIRIN naujiena skelbia jau atrinktas 6 komandas; RDPAD mokslo centro įrašas yra 2020–2022 m. archyvas. Ulbrokos pirminiai EIS/IUB ir DOCX nepasiekiami, lieka watch. Jelgavniekiem pradinis puslapis pasiektas, nors straipsnis grąžina 403. CVP IS pilna paieška, IUB/EIS paieškos ir dalis oficialių dokumentų redakcijų bei portalų paieškų nepasiekiami. Stacijas/RRTS 406, ZZ ir OPP inaccessible. Kai kurios pateiktos puslapių kopijos gali būti senesnės už šią patikrą; pilna naujausių pakeitimų aprėptis nepatvirtinta. Nepasiektų Filaretų ir „Erdvės, kurios sugrįžta“ patvirtinimo datos išsaugotos. Naujas pranešimas perduodamas botui tik po svetainės įrašymo ir nuskaitymo; pristatymą patvirtina atskira siuntimo būsena.
+Bandyta patikrinti visus 52 LT/LV šaltinius: 34 pasiekti pakankama vieša apimtimi, 14 iš dalies, 4 nepasiekiami. Tauralaukio 11.25 13:00 terminas nepasikeitė, bet liko tik 27 dienos – visas įrašas perkeltas į istoriją ir atrankos pastabas. Kitų šešių lentelėje likusių konkursų terminai patvirtinti. 2026.10.29 naudotojo patikslinta geografinė atranka: tik projektai Lietuvoje ir Latvijoje. Kitų šalių įrašai pašalinti iš viešų konkursų, stebėjimo ir atrankos pastabų. Iš viso 6 aktualūs projektų konkursai: LT 4, LV 2. Abu apdovanojimų terminai pakartotinai patikrinti. SIRIN naujiena skelbia jau atrinktas 6 komandas; RDPAD mokslo centro įrašas yra 2020–2022 m. archyvas. Ulbrokos pirminiai EIS/IUB ir DOCX nepasiekiami, lieka watch. Jelgavniekiem pradinis puslapis pasiektas, nors straipsnis grąžina 403. CVP IS pilna paieška, IUB/EIS paieškos ir dalis oficialių dokumentų redakcijų bei portalų paieškų nepasiekiami. Stacijas/RRTS 406, ZZ ir OPP inaccessible. Kai kurios pateiktos puslapių kopijos gali būti senesnės už šią patikrą; pilna naujausių pakeitimų aprėptis nepatvirtinta. Nepasiektų Filaretų ir „Erdvės, kurios sugrįžta“ patvirtinimo datos išsaugotos. Naujas pranešimas perduodamas botui tik po svetainės įrašymo ir nuskaitymo; pristatymą patvirtina atskira siuntimo būsena.
 
 ## Patikra · 2026-10-28
 
