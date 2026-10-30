@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-29**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-26 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-30**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-27 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -11,7 +11,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 - 6 pagrindinėje lentelėje palikti projektų konkursai: 4 Lietuvoje ir 2 Latvijoje.
 - 52 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 8 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
-- 7 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
+- 5 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
 
 ## Naudojimas
@@ -26,25 +26,29 @@ Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pate
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
 
+## Patikra · 2026-10-30
+
+Aplankyti visi 52 katalogo šaltiniai: 26 patikrinti pagal prieinamą viešą turinį, 24 iš dalies, 2 nepasiekiami. Šeši aktualūs konkursai (LT 4, LV 2); oficialių kortelių terminai nepasikeitė. Šiauliams liko lygiai 28 dienos. Naujo patvirtinto LT/LV projekto konkurso nerasta, boto eilė nepildyta. Ulbroka lieka stebėjime, nes pirminiai EIS/IUB ir DOCX nepasiekiami. CVP IS, IUB/EIS pilnų paieškų ir dalies dokumentų redakcijų aprėptis nepatvirtinta. Stacijas/RRTS grąžina 406; alternatyvūs Archidea, ZZ, Jelgavniekiem ir OPP puslapiai pasiekti. Viešos atrankos įrašai apriboti patvirtinta LT/LV fizine vieta. Katalogo būsenos aprašo tikrą šios patikros apimtį; dalis pateiktų puslapių kopijų yra ankstesnio nuskaitymo.
+
 ## Patikra · 2026-10-29
 
-Bandyta patikrinti visus 52 LT/LV šaltinius: 34 pasiekti pakankama vieša apimtimi, 14 iš dalies, 4 nepasiekiami. Tauralaukio 11.25 13:00 terminas nepasikeitė, bet liko tik 27 dienos – visas įrašas perkeltas į istoriją ir atrankos pastabas. Kitų šešių lentelėje likusių konkursų terminai patvirtinti. 2026.10.29 naudotojo patikslinta geografinė atranka: tik projektai Lietuvoje ir Latvijoje. Kitų šalių įrašai pašalinti iš viešų konkursų, stebėjimo ir atrankos pastabų. Iš viso 6 aktualūs projektų konkursai: LT 4, LV 2. Abu apdovanojimų terminai pakartotinai patikrinti. SIRIN naujiena skelbia jau atrinktas 6 komandas; RDPAD mokslo centro įrašas yra 2020–2022 m. archyvas. Ulbrokos pirminiai EIS/IUB ir DOCX nepasiekiami, lieka watch. Jelgavniekiem pradinis puslapis pasiektas, nors straipsnis grąžina 403. CVP IS pilna paieška, IUB/EIS paieškos ir dalis oficialių dokumentų redakcijų bei portalų paieškų nepasiekiami. Stacijas/RRTS 406, ZZ ir OPP inaccessible. Kai kurios pateiktos puslapių kopijos gali būti senesnės už šią patikrą; pilna naujausių pakeitimų aprėptis nepatvirtinta. Nepasiektų Filaretų ir „Erdvės, kurios sugrįžta“ patvirtinimo datos išsaugotos. Naujas pranešimas perduodamas botui tik po svetainės įrašymo ir nuskaitymo; pristatymą patvirtina atskira siuntimo būsena.
+Istorinės patikros vieša santrauka apribota LT/LV objektais; naujausia patikros apimtis pateikta aukščiau.
 
 ## Patikra · 2026-10-28
 
-Bandyta patikrinti visus 51 ankstesnį LT/LV šaltinį ir papildomas paieškas; katalogas papildytas „Pirkimų Radaru“ iki 52 šaltinių: 34 pasiekti pakankama vieša apimtimi, 13 iš dalies, 5 nepasiekiami. Septynių aktualių konkursų oficialių kortelių terminai nepasikeitė. Tauralaukiui liko lygiai 28 dienos; Alytaus bibliotekai 26, Eulsukdo 25, todėl pastarieji lieka atrankos pastabose. Ulbrokos pirminiai EIS/IUB ir dokumentai nepasiekiami – stebėjime, paskutiniai patvirtinti duomenys iš 10.25 išsaugoti. Jelgavos oficialaus pirkimų puslapio prieiga atsistatė; abiejų mokyklų 11.30 11:00 terminas patvirtintas ir EIS, ir savivaldybės kortelėse. Naujas 10.27 Birštono LAS skelbimas yra tas pats jau įtrauktas konkursas. Abu apdovanojimų terminai patikrinti. CAFx būsena prieštaringa, „Ateities biuro“ etapų metai ir naujas priėmimas neaiškūs, todėl tik stebėjime. Stacijas/RRTS grąžina HTTP 406, Jelgavniekiem HTTP 403, ZZ ir OPP nepasiekiami. CVP IS pilna paieška, IUB/EIS bendros paieškos, dalis dokumentų sąrašų ir pilnų redakcijų bei dalies portalų paieškos nepatvirtinti. Kai kurie žiniatinklio įrankio pateikti puslapiai yra ankstesnio nuskaitymo kopijos; patikra negarantuoja naujesnių pakeitimų aprėpties. Nepasiektų „Erdvės, kurios sugrįžta“ ir Filaretų patvirtinimo datos neperrašytos. Naujo tinkamo patvirtinto projekto konkurso neaptikta šios dalinės patikros apimtyje; boto eilė nepildoma.
+Istorinės patikros vieša santrauka apribota LT/LV objektais; naujausia patikros apimtis pateikta aukščiau.
 
 ## Patikra · 2026-10-27
 
-Bandyta patikrinti visus 51 LT/LV šaltinį: 33 pasiekti pakankama apimtimi, 13 iš dalies, 5 nepasiekiami. Peržiūrėti visi katalogo adresai, aktualios konkursų skiltys, papildomos paieškos ir oficialios esamų konkursų kortelės. Septynių lentelėje likusių konkursų terminai nepasikeitė. Alytaus bibliotekos 11.23 terminas patvirtintas, bet liko tik 27 dienos – iškeltas į atrankos pastabas, istorija išsaugota. Ulbrokos pirminiai EIS/IUB šaltiniai nepasiekiami, tad įrašas lieka stebėjime su ankstesne patvirtinta informacija. RDPAD, Rygos ir Kultūros ministerijos pradžios puslapiai šiandien pasiekti; ministerijos konkursų rubrika perskaityta. RDPAD ir Rygos paieškos, CVP IS pilnos paieškos rezultatai bei dalis oficialių dokumentų sąrašų nepasiekiami. Abu interjerų apdovanojimų terminai pakartotinai patikrinti. CAFx teberodo priėmimą uždarytą, nors kalendoriuje būsima data; SIRIN ir Panerių būsena nepasikeitė. Nepasiektų „Erdvės, kurios sugrįžta“ ir Filaretų įrašų ankstesnės datos išsaugotos. Naujo tinkamo konkurso šioje dalinėje patikroje nepatvirtinta, boto eilė nepildyta.
+Istorinės patikros vieša santrauka apribota LT/LV objektais; naujausia patikros apimtis pateikta aukščiau.
 
 ## Patikra · 2026-10-26
 
-Bandyta patikrinti visus 51 šaltinį: 32 pasiekti pakankama apimtimi, 10 iš dalies ir 9 nepasiekiami. Tiesioginė patikra nutrūko dėl prieigos ribojimo; išsaugoti 33 pradinių puslapių tekstai, likusieji šaltiniai ir oficialios kortelės tikrinti alternatyviu žiniatinklio įrankiu. CVP IS pilnos paieškos rezultatai nepasiekiami, todėl visos paieškos užbaigimo netvirtiname. Aštuonių pagrindinėje lentelėje paliktų konkursų terminai patvirtinti oficialiose kortelėse. Eulsukdo terminas 11.22 nepasikeitė, bet liko tik 27 dienos – iškeltas į pastabas. Ulbrokos EIS ir IUB nepasiekiami, todėl įrašas laikinai stebėjime su paskutine 10.25 patvirtinta informacija, o ne pažymėtas atšauktu. Dalies dokumentų sąrašų ir kitų stebimų kvietimų pakartotinės patikros užbaigti nepavyko; jų ankstesnės patikros datos išsaugotos. Naujų tinkamų konkursų šioje dalinėje patikroje nepatvirtinta; pranešimų eilė nepildyta.
+Istorinės patikros vieša santrauka apribota LT/LV objektais; naujausia patikros apimtis pateikta aukščiau.
 
 ## Patikra · 2026-10-25
 
-Aplankyti visi 50 ankstesnių katalogo šaltinių ir naujas oficialus „Atradimų“ konkursų puslapis: iš viso 51, iš jų 39 sėkmingai ir 12 iš dalies. Visi 10 esamų konkursų oficialūs terminai nepasikeitė, Eulsukdo šiandien liko lygiai 28 dienos. Alytaus klausimų terminas jau pasibaigęs, tačiau darbų pateikimas atviras. CVP IS paieškoje nuo 2026.11.22 perskaityti visi 19 rezultatų dviejuose puslapiuose, patikrintas tuščias trečias; šeši tinkami konkursai jau sąraše. Trijų Latvijos konkursų EIS kortelės ir dokumentų metaduomenys nepasikeitę; Ulbrokos pateikimo neatitikimų paaiškinimo nepaskelbta. „Atradimų takui“ registracija baigėsi 10.11, darbai iki 11.15; 11.23 yra balsavimo pabaiga. Klaipėdos trijų gydymo įstaigų puslapis skelbia apie 2 jau pateiktus projektus. Naujų tinkamų konkursų nepatvirtinta, boto eilė nepildyta. RDPAD peradresavimas, savivaldybių/ministerijos ir dviejų OPP užklausų 503, IUB/EIS paieškų bei mokamų katalogų ir archyvų ribos pažymėtos kataloge.
+Istorinės patikros vieša santrauka apribota LT/LV objektais; naujausia patikros apimtis pateikta aukščiau.
 
 ## Patikra · 2026-10-24
 
@@ -64,7 +68,7 @@ Dalinė patikra: RDPAD paieškos peradresavimo kilpa; Rygos, Jelgavos ir Kultūr
 
 ## Patikra · 2026-10-21
 
-Patikrinti visi 49 LT/LV šaltiniai: 43 sėkmingai, 6 iš dalies. CVP IS paieškoje (pavadinimas „konkursas“, pateikimas nuo 2026-11-18) peržiūrėti visi 15 rezultatų abiejuose puslapiuose; EIS CONTEST/5 paieškoje – 2. Septynių ankstesnių konkursų terminai nepasikeitė. Pridėtas Eulsukdo žemės ir ekologinio meno konkursas Busane, Pietų Korėjoje, rastas Latvijos FOLD suvestinėje. Perskaitytos oficialios 64 p. sąlygos: iki 2026-11-22 24:00 KST (17:00 Lietuvoje), 20 mln. KRW kūrybos ir projektavimo honoraras, 380 mln. KRW realizavimo biudžetas, 1 mln. KRW II etapo pristatymo honoraras išskyrus galutinę sutartį sudarantį dalyvį. EUR perskaičiavimas netaikomas.
+Istorinės patikros vieša santrauka apribota LT/LV objektais; naujausia patikros apimtis pateikta aukščiau.
 
 TenderGlass tiesiogiai grąžino HTTP 403; IUB rezultatai neprieinami be JavaScript paieškos, dalinė Iepirkumi/LookUP mokamų bazių ir Alytaus/Utenos archyvų aprėptis. RDPAD šiandien pasiektas. Patikra pažymėta daline; detalės `automation-state.json` ir svetainės kataloge.
 
