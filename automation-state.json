@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-30T06:55:33Z",
-    "finished_at": "2026-10-30T07:02:05Z",
+    "finished_at": "2026-10-30T07:03:14Z",
     "status": "partial",
     "checked_source_count": 52,
     "total_source_count": 52,
@@ -15,12 +15,20 @@
     "new_competition_keys": [],
     "removed_from_active": [],
     "notification_status": "not_needed_no_new_competitions",
-    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 26 patikrinti pagal prieinamą viešą turinį, 24 iš dalies, 2 nepasiekiami. Šeši aktualūs konkursai (LT 4, LV 2); oficialių kortelių terminai nepasikeitė. Šiauliams liko lygiai 28 dienos. Naujo patvirtinto LT/LV projekto konkurso nerasta, boto eilė nepildyta. Ulbroka lieka stebėjime, nes pirminiai EIS/IUB ir DOCX nepasiekiami. CVP IS, IUB/EIS pilnų paieškų ir dalies dokumentų redakcijų aprėptis nepatvirtinta. Stacijas/RRTS grąžina 406; alternatyvūs Archidea, ZZ, Jelgavniekiem ir OPP puslapiai pasiekti. Viešos atrankos įrašai apriboti patvirtinta LT/LV fizine vieta. Katalogo būsenos aprašo tikrą šios patikros apimtį; dalis pateiktų puslapių kopijų yra ankstesnio nuskaitymo. Viešo domeno nuskaitymas nepavyko. Automatizacija palikta veikti.",
+    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 26 patikrinti pagal prieinamą viešą turinį, 24 iš dalies, 2 nepasiekiami. Šeši aktualūs konkursai (LT 4, LV 2); oficialių kortelių terminai nepasikeitė. Šiauliams liko lygiai 28 dienos. Naujo patvirtinto LT/LV projekto konkurso nerasta, boto eilė nepildyta. Ulbroka lieka stebėjime, nes pirminiai EIS/IUB ir DOCX nepasiekiami. CVP IS, IUB/EIS pilnų paieškų ir dalies dokumentų redakcijų aprėptis nepatvirtinta. Stacijas/RRTS grąžina 406; alternatyvūs Archidea, ZZ, Jelgavniekiem ir OPP puslapiai pasiekti. Viešos atrankos įrašai apriboti patvirtinta LT/LV fizine vieta. Katalogo būsenos aprašo tikrą šios patikros apimtį; dalis pateiktų puslapių kopijų yra ankstesnio nuskaitymo. Viešo domeno nuskaitymas nepavyko. Automatizacija palikta veikti. GitHub main įrašymas ir nuskaitymas sutampa. Pages publikavimas success, šaltinio a27c8d1a8e57e2d72e95d4c2f24cc64a258f8040 index patikrintas atskirai. Pranešimų eilė ir pristatymų istorija nekeistos, naujų konkursų nėra. Automatizacijos įjungta būsena patikrinta.",
     "site_verification": {
-      "validation": "JavaScript syntax, initial six rows, LV filter two rows, geography, deadlines >=2026-11-27, 52 unique sources passed. Styles and five tabs preserved. No browser rendering claim.",
-      "index_readback": "pending",
-      "pages_conclusion": "pending",
-      "live_site_read": "Public domain not accessible via web tool."
+      "validation": "JavaScript syntax, initial six rows, LV filter two rows, geography, deadlines >=2026-11-27, 52 unique sources passed. Styles and five tabs preserved. No browser rendering claim. Five-tab navigation and Birštonas search passed.",
+      "index_readback": "matched",
+      "pages_conclusion": "success",
+      "live_site_read": "Public domain not accessible via web tool.",
+      "state_readback": "matched; final verification update read back separately",
+      "readme_readback": "matched",
+      "outbox_readback": "unchanged",
+      "deliveries_readback": "unchanged",
+      "index_commit": "10618c701ceb95dc300e5e5b92f13bef5b6e1426",
+      "pages_workflow_run_id": 41017595249,
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/41017595249",
+      "pages_source_commit": "a27c8d1a8e57e2d72e95d4c2f24cc64a258f8040"
     }
   },
   "known_competitions": [
