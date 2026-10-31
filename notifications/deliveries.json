@@ -28,6 +28,10 @@
     "competition:https://prixw.com/eng2027": {
       "status": "sent",
       "updated_at": "2026-10-29T07:06:56.208632+00:00"
+    },
+    "competition:cvp:10263799": {
+      "status": "sending",
+      "updated_at": "2026-10-31T07:06:23.883388+00:00"
     }
   }
 }
