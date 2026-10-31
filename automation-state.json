@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-31T07:01:48Z",
-    "finished_at": "2026-10-31T07:07:03Z",
+    "finished_at": "2026-10-31T07:07:51Z",
     "status": "partial",
     "checked_source_count": 52,
     "total_source_count": 52,
@@ -19,19 +19,22 @@
       "cvp:8035260"
     ],
     "notification_status": "sent",
-    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 22 patikrinti pagal prieinamą turinį, 28 iš dalies, 2 nepasiekiami. Aktualūs 6 konkursai (LT 4, LV 2). Naujas Filaretų g. 19 darželio rekonstrukcijos konkursas patvirtintas CVP IS 10263799: iki 2027.01.12 11:00, 73 dienos. Sąlygų ZIP ir TED turinys nepasiekiami, todėl sumos ir detalūs reikalavimai nepatvirtinti. Šiauliai perkelti į atrankos pastabas: 27 dienos. Ulbroka lieka stebėjime, EIS/IUB ir DOCX nepasiekiami. Pilna CVP IS, IUB/EIS paieškų ir dokumentų redakcijų aprėptis nepatvirtinta; Stacijas/RRTS HTTP 406. Šaltinių kopijų nuskaitymo datos gali būti ankstesnės už šios patikros datą. Tik patvirtintos fizinės LT/LV projekto vietos. GitHub main įrašymas ir nuskaitymas sutampa. Filaretų pranešimas pristatytas: deliveries sent ir Slack bot notifications Actions success. Viešo domeno patvirtinti nepavyko; Pages publikavimas dar vyksta. Kasdienė automatizacija palikta veikti.",
+    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 22 patikrinti pagal prieinamą turinį, 28 iš dalies, 2 nepasiekiami. Aktualūs 6 konkursai (LT 4, LV 2). Naujas Filaretų g. 19 darželio rekonstrukcijos konkursas patvirtintas CVP IS 10263799: iki 2027.01.12 11:00, 73 dienos. Sąlygų ZIP ir TED turinys nepasiekiami, todėl sumos ir detalūs reikalavimai nepatvirtinti. Šiauliai perkelti į atrankos pastabas: 27 dienos. Ulbroka lieka stebėjime, EIS/IUB ir DOCX nepasiekiami. Pilna CVP IS, IUB/EIS paieškų ir dokumentų redakcijų aprėptis nepatvirtinta; Stacijas/RRTS HTTP 406. Šaltinių kopijų nuskaitymo datos gali būti ankstesnės už šios patikros datą. Tik patvirtintos fizinės LT/LV projekto vietos. GitHub main įrašymas ir nuskaitymas sutampa. Filaretų pranešimas pristatytas: deliveries sent ir Slack bot notifications Actions success. Viešo domeno patvirtinti nepavyko; Pages publikavimas success; publikuoto commit index turinys patikrintas. Kasdienė automatizacija palikta veikti.",
     "site_verification": {
       "index_readback": "matched",
       "validation": "JavaScript syntax and DOM mock passed: six rows, two awards, four watch cards, 52 sources; all five tab callbacks toggle panels correctly. Browser rendering not verified.",
       "index_commit": "a438d4af8f5fb7001e2a4ccb3fcd77ed84a0c72e",
-      "state_readback": "matched before delivery update",
+      "state_readback": "matched; final deployment metadata read back separately",
       "readme_readback": "matched",
       "outbox_readback": "matched",
       "notification_delivery": "sent",
       "notification_workflow_run_id": 41179258646,
       "notification_workflow_conclusion": "success",
-      "pages_conclusion": "pending",
-      "live_site_read": "Public domain not accessible via web tool."
+      "pages_conclusion": "success",
+      "live_site_read": "Public domain not accessible via web tool.",
+      "pages_workflow_run_id": 41179314546,
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/41179314546",
+      "pages_source_commit": "5494d90e52c6cf0e09b037c38c2a0ea3f64e27e7"
     }
   },
   "known_competitions": [
