@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-30**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-27 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-10-31**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-28 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -11,7 +11,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 - 6 pagrindinėje lentelėje palikti projektų konkursai: 4 Lietuvoje ir 2 Latvijoje.
 - 52 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 8 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
-- 5 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
+- 4 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
 
 ## Naudojimas
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-10-31
+
+Aplankyti visi 52 katalogo šaltiniai: 22 patikrinti pagal prieinamą turinį, 28 iš dalies, 2 nepasiekiami. Aktualūs 6 konkursai (LT 4, LV 2). Naujas Filaretų g. 19 darželio rekonstrukcijos konkursas patvirtintas CVP IS 10263799: iki 2027.01.12 11:00, 73 dienos. Sąlygų ZIP ir TED turinys nepasiekiami, todėl sumos ir detalūs reikalavimai nepatvirtinti. Šiauliai perkelti į atrankos pastabas: 27 dienos. Ulbroka lieka stebėjime, EIS/IUB ir DOCX nepasiekiami. Pilna CVP IS, IUB/EIS paieškų ir dokumentų redakcijų aprėptis nepatvirtinta; Stacijas/RRTS HTTP 406. Šaltinių kopijų nuskaitymo datos gali būti ankstesnės už šios patikros datą. Tik patvirtintos fizinės LT/LV projekto vietos.
 
 ## Patikra · 2026-10-30
 
