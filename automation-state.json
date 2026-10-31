@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-10-31T07:01:48Z",
-    "finished_at": "2026-10-31T07:05:55Z",
+    "finished_at": "2026-10-31T07:07:03Z",
     "status": "partial",
     "checked_source_count": 52,
     "total_source_count": 52,
@@ -18,12 +18,20 @@
     "removed_from_active": [
       "cvp:8035260"
     ],
-    "notification_status": "pending",
-    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 22 patikrinti pagal prieinamą turinį, 28 iš dalies, 2 nepasiekiami. Aktualūs 6 konkursai (LT 4, LV 2). Naujas Filaretų g. 19 darželio rekonstrukcijos konkursas patvirtintas CVP IS 10263799: iki 2027.01.12 11:00, 73 dienos. Sąlygų ZIP ir TED turinys nepasiekiami, todėl sumos ir detalūs reikalavimai nepatvirtinti. Šiauliai perkelti į atrankos pastabas: 27 dienos. Ulbroka lieka stebėjime, EIS/IUB ir DOCX nepasiekiami. Pilna CVP IS, IUB/EIS paieškų ir dokumentų redakcijų aprėptis nepatvirtinta; Stacijas/RRTS HTTP 406. Šaltinių kopijų nuskaitymo datos gali būti ankstesnės už šios patikros datą. Tik patvirtintos fizinės LT/LV projekto vietos.",
+    "notification_status": "sent",
+    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 22 patikrinti pagal prieinamą turinį, 28 iš dalies, 2 nepasiekiami. Aktualūs 6 konkursai (LT 4, LV 2). Naujas Filaretų g. 19 darželio rekonstrukcijos konkursas patvirtintas CVP IS 10263799: iki 2027.01.12 11:00, 73 dienos. Sąlygų ZIP ir TED turinys nepasiekiami, todėl sumos ir detalūs reikalavimai nepatvirtinti. Šiauliai perkelti į atrankos pastabas: 27 dienos. Ulbroka lieka stebėjime, EIS/IUB ir DOCX nepasiekiami. Pilna CVP IS, IUB/EIS paieškų ir dokumentų redakcijų aprėptis nepatvirtinta; Stacijas/RRTS HTTP 406. Šaltinių kopijų nuskaitymo datos gali būti ankstesnės už šios patikros datą. Tik patvirtintos fizinės LT/LV projekto vietos. GitHub main įrašymas ir nuskaitymas sutampa. Filaretų pranešimas pristatytas: deliveries sent ir Slack bot notifications Actions success. Viešo domeno patvirtinti nepavyko; Pages publikavimas dar vyksta. Kasdienė automatizacija palikta veikti.",
     "site_verification": {
       "index_readback": "matched",
-      "validation": "JavaScript syntax, six LT/LV records, dates >=2026-11-28, five tabs retained. Rendering not yet verified.",
-      "index_commit": "a438d4af8f5fb7001e2a4ccb3fcd77ed84a0c72e"
+      "validation": "JavaScript syntax and DOM mock passed: six rows, two awards, four watch cards, 52 sources; all five tab callbacks toggle panels correctly. Browser rendering not verified.",
+      "index_commit": "a438d4af8f5fb7001e2a4ccb3fcd77ed84a0c72e",
+      "state_readback": "matched before delivery update",
+      "readme_readback": "matched",
+      "outbox_readback": "matched",
+      "notification_delivery": "sent",
+      "notification_workflow_run_id": 41179258646,
+      "notification_workflow_conclusion": "success",
+      "pages_conclusion": "pending",
+      "live_site_read": "Public domain not accessible via web tool."
     }
   },
   "known_competitions": [
@@ -117,9 +125,10 @@
       "key": "cvp:10263799",
       "title": "Darželio Filaretų g. 19 rekonstrukcija",
       "first_seen": "2026-10-31",
-      "notification": "pending",
+      "notification": "sent",
       "deadline": "2027-01-12",
-      "project_country": "LT"
+      "project_country": "LT",
+      "notified_at": "2026-10-31T07:06:24.949426+00:00"
     }
   ],
   "source_checks": [
@@ -573,13 +582,13 @@
     },
     {
       "key": "eis:184502",
-      "checked_at": "2026-10-29T07:04:59.708456+00:00",
+      "checked_at": "2026-10-31T07:07:03Z",
       "deadline": "2026-12-21",
       "status": "unverified",
       "official_url": "https://www.eis.gov.lv/EKEIS/Supplier/Procurement/184502",
-      "note": "EIS/IUB ir DOCX nepasiekiami, lieka watch; paskutiniai patvirtinti duomenys iš 10.25 išsaugoti.",
+      "note": "2026.10.31 EIS, IUB ir DOCX nepasiekiami, lieka watch; ankstesni patvirtinti duomenys išsaugoti.",
       "last_confirmed_at": "2026-10-25",
-      "days_remaining": 53
+      "days_remaining": 51
     },
     {
       "key": "https://prixw.com/eng2027",
@@ -1077,10 +1086,10 @@
           "https://viesiejipirkimai.lt/epps/cft/listContractDocuments.do?resourceId=8035260"
         ]
       ],
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-10-31",
       "timezone": "Europe/Vilnius",
       "registration": "Atskiro ankstesnio privalomos registracijos termino patikrintame skelbime nenustatyta; CVP IS paskyra būtina pateikimui.",
-      "verification_note": "2026.10.30 oficialioje kortelėje patikrintas terminas ir atviras kvietimas. Pilna dokumentų pakeitimų patikra ribota; kitos sąlygos ir sumos pagal anksčiau perskaitytus dokumentus."
+      "verification_note": "Oficialioje CVP IS kortelėje terminas 11.27 patikrintas 2026.10.31; liko 27 dienos, įrašas perkeltas į audit."
     }
   },
   "geographic_scope": {
