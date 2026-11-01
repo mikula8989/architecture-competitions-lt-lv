@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-11-01T07:04:39.643Z",
-    "finished_at": "2026-11-01T07:07:17.846Z",
+    "finished_at": "2026-11-01T07:08:02.168Z",
     "status": "partial",
     "checked_source_count": 52,
     "total_source_count": 52,
@@ -15,13 +15,19 @@
     "new_competition_keys": [],
     "removed_from_active": [],
     "notification_status": "not_needed",
-    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 20 patikrinti pagal prieinamą turinį, 30 iš dalies, 2 nepasiekiami. Aktualūs 6 konkursai (LT 4, LV 2), oficialių kortelių terminai nepasikeitė. Naujo patvirtinto LT/LV projekto konkurso neaptikta; boto eilė nepildyta. Atrankos riba 2026.11.29. Abiem Jelgavos mokykloms liko 29 dienos, Utenai 30. Ulbroka lieka stebėjime: EIS, IUB ir DOCX nepasiekiami. CVP IS dokumentų paketai ir EIS mokyklų DOCX nepasiekiami, todėl pilna dokumentų redakcijų bei registrų paieškų patikra nepatvirtinta. Stacijas ir RRTS puslapiai HTTP 406; LAS skelbia ankstesnius RRTS rezultatus. Dalis interneto įrankio kopijų nuskaitytos anksčiau už šios patikros datą. Tik patvirtintos fizinės LT/LV projektų vietos.",
+    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 20 patikrinti pagal prieinamą turinį, 30 iš dalies, 2 nepasiekiami. Aktualūs 6 konkursai (LT 4, LV 2), oficialių kortelių terminai nepasikeitė. Naujo patvirtinto LT/LV projekto konkurso neaptikta; boto eilė nepildyta. Atrankos riba 2026.11.29. Abiem Jelgavos mokykloms liko 29 dienos, Utenai 30. Ulbroka lieka stebėjime: EIS, IUB ir DOCX nepasiekiami. CVP IS dokumentų paketai ir EIS mokyklų DOCX nepasiekiami, todėl pilna dokumentų redakcijų bei registrų paieškų patikra nepatvirtinta. Stacijas ir RRTS puslapiai HTTP 406; LAS skelbia ankstesnius RRTS rezultatus. Dalis interneto įrankio kopijų nuskaitytos anksčiau už šios patikros datą. Tik patvirtintos fizinės LT/LV projektų vietos. GitHub main įrašymas ir nuskaitymas sutampa; JavaScript ir DOM patikra sėkminga, Pages publikavimas success. Viešo domeno turinio tiesiogiai patvirtinti nepavyko. Kasdienė automatizacija palikta veikti.",
     "site_verification": {
       "validation": "JavaScript syntax and DOM mock passed: six rows, two awards, four watch cards, 52 sources; all five tab callbacks toggle panels correctly. Browser rendering unverified.",
-      "index_readback": "pending",
-      "pages_conclusion": "pending",
-      "live_site_read": "pending",
-      "notification_delivery": "not_needed; no new confirmed competition; outbox unchanged"
+      "index_readback": "matched",
+      "pages_conclusion": "success",
+      "live_site_read": "Public domain inaccessible via web tool; deployment verified by Pages Actions success; CNAME preserved.",
+      "notification_delivery": "not_needed; no new confirmed competition; outbox unchanged",
+      "state_readback": "matched; final verification metadata to be read back",
+      "readme_readback": "matched",
+      "index_commit": "556a429e26fdad0e5cb11e9c3d6f47a8fe88ee75",
+      "pages_workflow_run_id": 41283501577,
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/41283501577",
+      "pages_source_commit": "aec22ce452f92cdbcf0bbd3e8b1c768ffd06ba63"
     }
   },
   "known_competitions": [
