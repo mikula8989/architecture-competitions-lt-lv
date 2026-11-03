@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-02**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-11-30 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-03**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-01 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -8,7 +8,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 
 ## Turinys
 
-- 6 pagrindinėje lentelėje palikti projektų konkursai: 4 Lietuvoje ir 2 Latvijoje.
+- 4 pagrindinėje lentelėje palikti projektų konkursai, visi Lietuvoje.
 - 52 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 8 nauji).
 - 2 įgyvendintų interjerų apdovanojimų konkursai.
 - 4 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-03
+
+Aplankyti visi 52 katalogo šaltiniai: 20 patikrinti pagal prieinamą turinį, 30 iš dalies, 2 nepasiekiami. Aktualūs 4 konkursai, visi Lietuvoje. Abiem Jelgavos mokykloms liko 27 dienos, todėl jos perkeltos į atrankos pastabas; Utenai liko lygiai 28 dienos. Oficialūs terminai nepasikeitė. Naujo patvirtinto LT/LV projekto konkurso neaptikta; boto eilė nepildyta. Atrankos riba 2026.12.01. Ulbroka lieka stebėjime: VissVienā rastas 12.21 įrašas, bet pirminiai EIS/IUB ir DOCX nepasiekiami. CVP IS dokumentų paketai, EIS mokyklų DOCX ir pilnos registrų paieškos nepasiekiami arba riboti; dalis interneto įrankio kopijų senesnės už šios patikros datą. Stacijas ir RRTS puslapiai HTTP 406. Tik patvirtintos fizinės LT/LV projektų vietos. Viešo domeno turinio tiesiogiai patvirtinti nepavyko.
 
 ## Patikra · 2026-11-02
 
