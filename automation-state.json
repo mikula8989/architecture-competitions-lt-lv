@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-11-03T07:06:03.948Z",
-    "finished_at": "2026-11-03T07:10:01.300Z",
+    "finished_at": "2026-11-03T07:11:37.867Z",
     "status": "partial",
     "checked_source_count": 52,
     "total_source_count": 52,
@@ -18,12 +18,22 @@
       "eis:182693"
     ],
     "notification_status": "not_needed",
-    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 20 patikrinti pagal prieinamą turinį, 30 iš dalies, 2 nepasiekiami. Aktualūs 4 konkursai, visi Lietuvoje. Abiem Jelgavos mokykloms liko 27 dienos, todėl jos perkeltos į atrankos pastabas; Utenai liko lygiai 28 dienos. Oficialūs terminai nepasikeitė. Naujo patvirtinto LT/LV projekto konkurso neaptikta; boto eilė nepildyta. Atrankos riba 2026.12.01. Ulbroka lieka stebėjime: VissVienā rastas 12.21 įrašas, bet pirminiai EIS/IUB ir DOCX nepasiekiami. CVP IS dokumentų paketai, EIS mokyklų DOCX ir pilnos registrų paieškos nepasiekiami arba riboti; dalis interneto įrankio kopijų senesnės už šios patikros datą. Stacijas ir RRTS puslapiai HTTP 406. Tik patvirtintos fizinės LT/LV projektų vietos. Viešo domeno turinio tiesiogiai patvirtinti nepavyko.",
+    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 20 patikrinti pagal prieinamą turinį, 30 iš dalies, 2 nepasiekiami. Aktualūs 4 konkursai, visi Lietuvoje. Abiem Jelgavos mokykloms liko 27 dienos, todėl jos perkeltos į atrankos pastabas; Utenai liko lygiai 28 dienos. Oficialūs terminai nepasikeitė. Naujo patvirtinto LT/LV projekto konkurso neaptikta; boto eilė nepildyta. Atrankos riba 2026.12.01. Ulbroka lieka stebėjime: VissVienā rastas 12.21 įrašas, bet pirminiai EIS/IUB ir DOCX nepasiekiami. CVP IS dokumentų paketai, EIS mokyklų DOCX ir pilnos registrų paieškos nepasiekiami arba riboti; dalis interneto įrankio kopijų senesnės už šios patikros datą. Stacijas ir RRTS puslapiai HTTP 406. Tik patvirtintos fizinės LT/LV projektų vietos. Viešo domeno turinio tiesiogiai patvirtinti nepavyko. GitHub main įrašymas ir nuskaitymas sutampa; JavaScript ir skirtukų patikra sėkminga, Pages publikavimas success. Pranešimų eilė ir pristatymų istorija nepakeistos; kasdienė užduotis palikta veikti.",
     "site_verification": {
       "live_site_read": "Public domain inaccessible via web tool.",
       "notification_delivery": "not_needed; no new confirmed competitions; outbox and deliveries unchanged",
       "validation": "JavaScript syntax and DOM mock passed: four eligible LT rows, 52 unique sources/current timestamps, cutoff 2026-12-01, two awards, four watch cards, five tabs, search and CSV date. Styles preserved. Browser rendering unverified.",
-      "index_commit": "b6e01476f5bc8641ea383e814f10602077c6adf6"
+      "index_commit": "b6e01476f5bc8641ea383e814f10602077c6adf6",
+      "index_readback": "matched",
+      "state_readback": "matched before final verification metadata; final metadata read back separately",
+      "readme_readback": "matched",
+      "outbox_readback": "unchanged",
+      "deliveries_readback": "unchanged",
+      "pages_conclusion": "success",
+      "pages_workflow_run_id": 41594562221,
+      "pages_source_commit": "0df0da3f26a747e89d1c66207e7a912c530fb4cd",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/41594562221",
+      "cname": "konkursai.aimm.lt"
     }
   },
   "known_competitions": [
