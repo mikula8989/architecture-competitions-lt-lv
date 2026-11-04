@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-03**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-01 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-04**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-02 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -10,7 +10,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 
 - 4 pagrindinėje lentelėje palikti projektų konkursai, visi Lietuvoje.
 - 52 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 8 nauji).
-- 2 įgyvendintų interjerų apdovanojimų konkursai.
+- 1 įgyvendintų interjerų apdovanojimų konkursai.
 - 4 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
 
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-04
+
+Aplankyti visi 52 katalogo šaltiniai: 20 patikrinti pagal prieinamą turinį, 30 iš dalies, 2 nepasiekiami. Aktualūs 4 projektų konkursai, visi Lietuvoje. Tauralaukio terminas CVP IS pratęstas iki 2027.01.20 15:00 (77 dienos), todėl konkursas grąžintas į lentelę; tai baseline įrašas, boto pranešimas nekartojamas. Utenai liko 27 dienos, ji perkelta į pastabas. „Mano erdvė“ apdovanojimui iki 12.01 liko 27 dienos, jis taip pat perkeltas į pastabas. Naujų patvirtintų LT/LV projektų konkursų neaptikta. Atrankos riba 2026.12.02. Ulbrokos EIS/IUB ir DOCX nepasiekiami; lieka stebėjime. CVP IS dokumentų paketų, TED ir pilnų registrų paieškų aprėptis nepatvirtinta; dalis interneto įrankio kopijų senesnės už patikros datą. Stacijas ir RRTS puslapiai HTTP 406. Tik patvirtintos fizinės LT/LV projektų vietos. Viešo domeno turinio tiesiogiai patvirtinti nepavyko.
 
 ## Patikra · 2026-11-03
 
