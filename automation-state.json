@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-11-04T07:00:08.256Z",
-    "finished_at": "2026-11-04T07:04:19.314Z",
+    "finished_at": "2026-11-04T07:05:16.018Z",
     "status": "partial",
     "checked_source_count": 52,
     "total_source_count": 52,
@@ -20,12 +20,22 @@
       "cvp:9420296"
     ],
     "notification_status": "not_needed",
-    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 20 patikrinti pagal prieinamą turinį, 30 iš dalies, 2 nepasiekiami. Aktualūs 4 projektų konkursai, visi Lietuvoje. Tauralaukio terminas CVP IS pratęstas iki 2027.01.20 15:00 (77 dienos), todėl konkursas grąžintas į lentelę; tai baseline įrašas, boto pranešimas nekartojamas. Utenai liko 27 dienos, ji perkelta į pastabas. „Mano erdvė“ apdovanojimui iki 12.01 liko 27 dienos, jis taip pat perkeltas į pastabas. Naujų patvirtintų LT/LV projektų konkursų neaptikta. Atrankos riba 2026.12.02. Ulbrokos EIS/IUB ir DOCX nepasiekiami; lieka stebėjime. CVP IS dokumentų paketų, TED ir pilnų registrų paieškų aprėptis nepatvirtinta; dalis interneto įrankio kopijų senesnės už patikros datą. Stacijas ir RRTS puslapiai HTTP 406. Tik patvirtintos fizinės LT/LV projektų vietos. Viešo domeno turinio tiesiogiai patvirtinti nepavyko.",
+    "error_summary": "Aplankyti visi 52 katalogo šaltiniai: 20 patikrinti pagal prieinamą turinį, 30 iš dalies, 2 nepasiekiami. Aktualūs 4 projektų konkursai, visi Lietuvoje. Tauralaukio terminas CVP IS pratęstas iki 2027.01.20 15:00 (77 dienos), todėl konkursas grąžintas į lentelę; tai baseline įrašas, boto pranešimas nekartojamas. Utenai liko 27 dienos, ji perkelta į pastabas. „Mano erdvė“ apdovanojimui iki 12.01 liko 27 dienos, jis taip pat perkeltas į pastabas. Naujų patvirtintų LT/LV projektų konkursų neaptikta. Atrankos riba 2026.12.02. Ulbrokos EIS/IUB ir DOCX nepasiekiami; lieka stebėjime. CVP IS dokumentų paketų, TED ir pilnų registrų paieškų aprėptis nepatvirtinta; dalis interneto įrankio kopijų senesnės už patikros datą. Stacijas ir RRTS puslapiai HTTP 406. Tik patvirtintos fizinės LT/LV projektų vietos. Viešo domeno turinio tiesiogiai patvirtinti nepavyko. GitHub main įrašymas ir nuskaitymas sutampa; JavaScript ir DOM patikra sėkminga, Pages publikavimas success. Pranešimų eilė ir pristatymų istorija nepakeistos.",
     "site_verification": {
       "live_site_read": "Public domain inaccessible via web tool.",
       "notification_delivery": "not_needed; no new confirmed competition keys; baseline Tauralaukis not resent",
-      "validation": "Pending readback validation",
-      "cname": "konkursai.aimm.lt"
+      "validation": "Read-back JavaScript syntax and DOM mock passed: four unique LT competitions with deadlines >=2026-12-02, one award, four watch cards, 52 unique sources/current timestamps, search, country filter, five tabs and source search. CSV uses CHECKED=2026-11-04. Styles unchanged; browser rendering unverified.",
+      "cname": "konkursai.aimm.lt",
+      "index_commit": "01c69aabbe14e948a8a2e30b80f9b40baaffcdba",
+      "index_readback": "matched",
+      "state_readback": "matched; final metadata verified separately",
+      "readme_readback": "matched",
+      "outbox_readback": "unchanged",
+      "deliveries_readback": "unchanged",
+      "pages_conclusion": "success",
+      "pages_workflow_run_id": 41789741337,
+      "pages_source_commit": "f872507a8c64f5a9b2a85cd34fbea410ad91d599",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/41789741337"
     }
   },
   "known_competitions": [
