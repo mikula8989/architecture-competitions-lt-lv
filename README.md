@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-06**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-04 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-07**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-05 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -8,10 +8,10 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 
 ## Turinys
 
-- 4 pagrindinėje lentelėje palikti projektų konkursai, visi Lietuvoje.
-- 53 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 9 papildomi).
-- 1 įgyvendintų interjerų apdovanojimų konkursai.
-- 4 nepatvirtintų ar papildomo patikslinimo reikalaujančių kvietimų apžvalga.
+- 5 projektų konkursai pagrindinėje lentelėje (4 Lietuvoje, 1 Latvijoje).
+- 56 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 12 papildomų).
+- 2 įgyvendintų darbų apdovanojimų konkursai.
+- 5 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
 
 ## Naudojimas
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-07
+
+Aplankyti visi 56 šaltiniai: 24 patikrinti, 29 iš dalies, 3 nepasiekiami. Atrankos riba 2026.12.05. Aktualūs 5 projektų konkursai (LT 4, LV 1). Ulbroka grąžinta į lentelę: EIS ir IUB patvirtino 2026.12.21 12:00, tačiau pateikimo būdą dar reikia tikslinti. Du Rygos konkursai stebėjime, nes rasti sąlygų derinimo sprendimai, o vieši pateikimo terminai nepatvirtinti. Įgyvendintų darbų skiltis papildyta „JUNG loves“ apdovanojimais (iki 2027.02.12). Naujų patvirtintų projektų konkursų nerasta. Pilna registrų ir dalies sąlygų dokumentų aprėptis nepatvirtinta. Stacijas, RRTS ir Jelgavniekiem puslapiai nepasiekiami.
 
 ## Patikra · 2026-11-06
 
