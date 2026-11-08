@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-07**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-05 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-08**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-06 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -9,9 +9,9 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 ## Turinys
 
 - 5 projektų konkursai pagrindinėje lentelėje (4 Lietuvoje, 1 Latvijoje).
-- 56 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 12 papildomų).
+- 57 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 13 papildomų).
 - 2 įgyvendintų darbų apdovanojimų konkursai.
-- 5 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
+- 6 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
 
 ## Naudojimas
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-08
+
+Aplankyti visi 57 šaltiniai: 24 patikrinti, 30 iš dalies, 3 nepasiekiami. Atrankos riba 2026.12.06. Pagrindinėje lentelėje 5 projektų konkursai (LT 4, LV 1); terminai nepasikeitė. Ropažų savivaldybės kortelė patvirtina Ulbrokos terminą ir fizinį pristatymo adresą; IUB nurodo elektroninį pateikimą, todėl prieš teikiant reikia užsakovo patvirtinimo. Klaipėdos savivaldybė patvirtina Tauralaukio terminą ir 40 000 € premijų fondą. Į stebėjimą įtrauktas Salaspilio parkas: taryba patvirtino 30 000 € premijų fondą, viešas pateikimo terminas nepatvirtintas. Naujo tinkamo projekto konkurso nepatvirtinta. Dalis CVP IS, EIS ir TED dokumentų bei registrų paieškų nepasiekiami.
 
 ## Patikra · 2026-11-07
 
