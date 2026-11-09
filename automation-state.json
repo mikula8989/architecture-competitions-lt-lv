@@ -4,33 +4,33 @@
   "minimum_preparation_days": 28,
   "initialized_at": "2026-10-19",
   "last_run": {
-    "started_at": "2026-11-08T06:58:39Z",
-    "finished_at": "2026-11-08T07:09:16Z",
+    "started_at": "2026-11-09T06:58:38Z",
+    "finished_at": "2026-11-09T07:09:35Z",
     "status": "partial",
-    "checked_source_count": 57,
-    "total_source_count": 57,
+    "checked_source_count": 58,
+    "total_source_count": 58,
     "successful_source_count": 24,
-    "partial_source_count": 30,
+    "partial_source_count": 31,
     "unavailable_source_count": 3,
     "new_competition_keys": [],
     "removed_from_active": [],
     "restored_to_active": [],
     "notification_status": "not_needed",
-    "error_summary": "Aplankyti visi 57 šaltiniai: 24 patikrinti, 30 iš dalies, 3 nepasiekiami. Atrankos riba 2026.12.06. Pagrindinėje lentelėje 5 projektų konkursai (LT 4, LV 1); terminai nepasikeitė. Ropažų savivaldybės kortelė patvirtina Ulbrokos terminą ir fizinį pristatymo adresą; IUB nurodo elektroninį pateikimą, todėl prieš teikiant reikia užsakovo patvirtinimo. Klaipėdos savivaldybė patvirtina Tauralaukio terminą ir 40 000 € premijų fondą. Į stebėjimą įtrauktas Salaspilio parkas: taryba patvirtino 30 000 € premijų fondą, viešas pateikimo terminas nepatvirtintas. Naujo tinkamo projekto konkurso nepatvirtinta. Dalis CVP IS, EIS ir TED dokumentų bei registrų paieškų nepasiekiami. Nepasiekiami Stacijas, RRTS ir Jelgavniekiem puslapiai. GitHub Pages publikavimas patvirtintas. Viešo domeno turinio patvirtinti nepavyko dėl ryšio klaidos.",
+    "error_summary": "Aplankyti visi 58 šaltiniai: 24 patikrinti, 31 iš dalies, 3 nepasiekiami. Atrankos riba 2026.12.07. Pagrindinėje lentelėje 5 projektų konkursai (LT 4, LV 1). Pateikimo terminai ir žinomos sumos nepasikeitė. Ulbrokos EIS kortelėje apžiūra numatyta 2026.11.10 10:00. Pagal anksčiau perskaitytas sąlygas į ją registruojamasi iki 2026.11.09 16:00 Rygos laiku. Naujo tinkamo projekto konkurso nepatvirtinta. Dalies CVP IS, EIS ir TED dokumentų bei pilnos registrų paieškos patvirtinti nepavyko. Nepasiekiami Stacijas, RRTS ir Jelgavniekiem puslapiai. GitHub Pages publikavimas patvirtintas. Viešo domeno turinio patvirtinti nepavyko dėl ryšio klaidos.",
     "site_verification": {
-      "live_site_read": "Viešo domeno turinys nepatvirtintas. Naršyklė grąžino ryšio klaidą ir po publikavimo.",
+      "live_site_read": "Naršyklėje gauta ryšio klaida. Viešo domeno turinys nepasiekiamas ir po publikavimo patikros.",
       "pages_conclusion": "success",
       "notification_delivery": "not_needed",
-      "validation": "JavaScript sintaksė ir DOM imitacija patikrintos: 5 unikalūs LT/LV konkursai, 2 apdovanojimai, 6 stebėjimo kortelės, 57 šaltiniai, Latvijos filtras, paieška, CSV datos ir 5 skirtukai.",
+      "validation": "JavaScript sintaksė ir DOM imitacija patikrintos: 5 unikalūs LT/LV konkursai, 2 apdovanojimai, 6 stebėjimo kortelės, 58 šaltiniai, Latvijos filtras, paieška, CSV datos ir 5 skirtukai.",
       "cname": "konkursai.aimm.lt",
-      "index_commit": "8bb443cc0ca2b02fd6024e59c01fc108474e91df",
+      "index_commit": "6fc1ff7f2a30040071b69bbd804d9bfcd305dcd3",
       "index_readback": "matched",
       "readme_readback": "matched",
       "outbox_readback": "unchanged",
       "deliveries_readback": "unchanged",
-      "pages_workflow_run_id": 42457528073,
-      "pages_source_commit": "0af877d95aa48c9fabda87f239569da548f5aecb",
-      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/42457528073"
+      "pages_workflow_run_id": 42576894294,
+      "pages_source_commit": "56c5ec28d375e9e41b7b7d7bb6f11212edc1835d",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/42576894294"
     }
   },
   "known_competitions": [
@@ -135,466 +135,473 @@
     {
       "name": "Statybų naujienos",
       "url": "https://www.statybunaujienos.lt/zyme/Konkursas",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Konkurso žyma ir viešųjų pirkimų bei kvietimų rubrika peržiūrėtos; pateikiami ir rezultatų įrašai. Viso archyvo aprėptis nepatvirtinta."
     },
     {
       "name": "Architektūros fondas",
       "url": "https://archfondas.lt/zyma/konkursas/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Konkursų žymoje naujausias matomas atviras kvietimas „Dabarties pažadai“ baigėsi 2026.07.10."
     },
     {
       "name": "Nacionalinis architektūros institutas",
       "url": "https://nai.lt/naujienos/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėtas naujienų sąrašas; aktualaus LT ar LV projektų kvietimo jame nerasta."
     },
     {
       "name": "OpenProcurements · Lietuva",
       "url": "https://lt.openprocurements.com/cpv/71230000/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Patikrintos CPV 71230000 ir 71220000 skiltys. Tauralaukio senesnę datą pakeitė oficialus CVP IS terminas."
     },
     {
       "name": "TenderGlass",
       "url": "https://tenderglass.com/lt/lietuva-salis-lt/architekturos-ir-susijusios-paslaugos-cpv-71200000",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Peržiūrėtas CPV 71200000 viešas sąrašas ir tikslinė paieška. Visų pirkimų bei dokumentų aprėptis nepatvirtinta."
     },
     {
       "name": "VVK · konkursų naujienos",
       "url": "https://www.vilniausvystymas.lt/naujienos-architekturiniai-konkursai/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėta konkursų naujienų rubrika; Tarandės kvietimas žinomas, naujausias S. Daukanto įrašas apie jau pateiktus darbus."
     },
     {
       "name": "Arch.kon.",
       "url": "https://www.archkon.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Kataloge matomi žinomi konkursai ir archyviniai įrašai; terminams taikytos oficialios CVP IS kortelės."
     },
     {
       "name": "Lietuvos architektų sąjunga",
       "url": "https://www.architektusajunga.lt/konkursai/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Konkursų rubrikoje „Mano erdvė“ liko žemiau 28 dienų ribos; paskelbti Priešpilio rezultatai."
     },
     {
       "name": "LAS Kauno skyrius",
       "url": "https://www.laskaunas.lt/category/konkursai/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėta rubrika ir Birštono administracinio pastato skelbimas; „Versmė“ įrašas jau apie rezultatus."
     },
     {
       "name": "Architektams · LAS Klaipėda",
       "url": "https://architektams.lt/konkursai/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Konkursų rubrikoje paskelbti Priešpilio antrojo etapo nugalėtojai."
     },
     {
       "name": "Lietuvos architektų rūmai",
       "url": "https://www.architekturumai.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Atverta atskira architektūrinių konkursų skiltis ir patikrinti matomi įrašai; tinkamo naujo kvietimo nepatvirtinta."
     },
     {
       "name": "CVP IS / Viešieji pirkimai",
       "url": "https://viesiejipirkimai.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Peržiūrėta paieškos forma, indeksuoti rezultatai ir septynios oficialios kortelės. Sąlygų paketų bei pilnos registrų paieškos aprėptis nepatvirtinta."
     },
     {
       "name": "Vilniaus vystymo kompanija",
       "url": "https://www.vilniausvystymas.lt/architekturiniai-konkursai/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėta konkursų apžvalga; matomi žinomi Vilniaus projektai ir pateiktų darbų ekspozicijos."
     },
     {
       "name": "Vilniaus savivaldybė",
       "url": "https://vilnius.lt/naujienos",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Naujienose ir oficialiuose pranešimuose patikrinti Filaretų, Tarandės ir Panerių įrašai. Panerių terminas dar nepaskelbtas."
+      "note": "Savivaldybės ir LTG pranešimuose Panerių konkursas dar planuojamas. Filaretų ir Tarandės kvietimai patikrinti oficialiose kortelėse."
     },
     {
       "name": "Alytaus savivaldybė",
       "url": "https://alytus.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Peržiūrėtos savivaldybės naujienos ir oficiali bibliotekos CVP IS kortelė; 11.23 terminas nepasikeitė."
     },
     {
       "name": "Klaipėdos savivaldybė",
       "url": "https://www.klaipeda.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Pradinis adresas neatsakė; alternatyvus savivaldybės puslapis ir pranešimas pasiekti. Tauralaukio terminas 2027.01.20 15:00, premijų fondas 40 000 €."
     },
     {
       "name": "Utenos savivaldybė",
       "url": "https://www.utena.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Savivaldybės portalas ir tikslinė paieška peržiūrėti; sporto komplekso CVP IS terminas 12.01, liko 23 dienos."
+      "note": "Savivaldybės portalas ir tikslinė paieška peržiūrėti. Sporto komplekso CVP IS terminas 12.01, liko 22 dienos."
     },
     {
       "name": "Šiaulių savivaldybė",
       "url": "https://www.siauliai.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Savivaldybės portalas ir tikslinė paieška peržiūrėti; meninių akcentų CVP IS terminas 11.27."
     },
     {
       "name": "Šiaulių akcentai",
       "url": "https://siauliuakcentai.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
-      "note": "Projekto puslapis ir CVP IS kortelė pasiekti; iki 11.27 pateikimo liko 19 dienų."
+      "note": "Projekto puslapis ir CVP IS kortelė pasiekti. Iki 11.27 pateikimo liko 18 dienų."
     },
     {
       "name": "PILOTAS.LT",
       "url": "https://pilotas.lt/kategorija/architektura/konkursai/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėta konkursų rubrika ir tikslinė paieška; matomi ankstesni kvietimai ir pateiktų darbų naujienos."
     },
     {
       "name": "SA.lt",
       "url": "https://sa.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "„JUNG loves“ straipsnis pasiektas ir jo nuoroda atvertos oficialios taisyklės. Viso SA.lt archyvo aprėptis nepatvirtinta."
     },
     {
       "name": "Structum · konkursai",
       "url": "https://structum.lt/konkursai/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėta konkursų skiltis; „Namas X 2026“ archyvinis, „Išmanusis miestas 13“ lieka stebėjime."
     },
     {
       "name": "Structum · Išmanusis miestas",
       "url": "https://structum.lt/ismanusis-miestas/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
-      "note": "Peržiūrėtos registracijos gairės, 13 ciklo puslapis ir savivaldybių objektų skelbimai. Tiksli pateikimo data nepatvirtinta."
+      "note": "Peržiūrėti registracijos ir 13-ojo ciklo puslapiai. Pateikimo termino nepatvirtinta."
     },
     {
       "name": "Interjeras.lt",
       "url": "https://www.interjeras.lt/konkursai",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Organizatoriaus sąlygose registracija iki 2026.12.31 ir darbai iki 2027.01.30; objektai Lietuvoje."
     },
     {
       "name": "Lrytas · Mano erdvė",
       "url": "https://www.lrytas.lt/bustas/mano-erdve",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Rubrika ir organizatoriaus skelbimas peržiūrėti; „Mano erdvė“ nepereina 28 dienų slenksčio."
     },
     {
       "name": "CityNow",
       "url": "https://blog.citynow.org/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Peržiūrėtas naujienų sąrašas ir tikslinė paieška; Filaretų konkursas žinomas, viso archyvo aprėptis nepatvirtinta."
     },
     {
       "name": "Latvijas Arhitektu savienība",
       "url": "https://latarh.lv/konkursi/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
-      "note": "Peržiūrėti konkursų sąrašas ir aktyvių konkursų skiltis, atrinkta pagal fizinę objekto vietą. Smiltenės skelbimas, kurio sąraše rodoma 11.07 data, pagal originalą paskelbtas 2023 m."
+      "note": "Peržiūrėtas bendras ir aktyvių konkursų sąrašai, atrinkta pagal fizinę projekto vietą."
     },
     {
       "name": "LAS · konkursų naujienos",
       "url": "https://latarh.lv/jaunumi/konkursi",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėta konkursų naujienų skiltis; matomi ankstesni kvietimai ir rezultatai."
     },
     {
       "name": "LAS · užsienio konkursai",
       "url": "https://latarh.lv/konkursi/arzemju",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėta tarptautinių skelbimų skiltis pagal fizinę projekto vietą."
     },
     {
       "name": "FOLD · galimybės",
       "url": "https://www.fold.lv/category/atbalsts/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Peržiūrėta galimybių rubrika ir naujienų paieška; apie Rygos stoties aikštę paskelbti rezultatai, ne atviras kvietimas."
+      "note": "Peržiūrėta galimybių rubrika ir 11.05 savaitinė apžvalga. Tinkamo LT ar LV projektų kvietimo šioje apžvalgoje nepatvirtinta."
     },
     {
       "name": "A4D",
       "url": "https://a4d.lv/tag/konkursi/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Peržiūrėta konkursų žyma ir tikslinė paieška; matomi ankstesni konkursai, naujausių įrašų aprėptis nepatvirtinta."
+      "note": "Konkursų žymos adresas neatsakė. Pasiektas pradinis puslapis ir atlikta tikslinė paieška; rubrikos aprėptis nepatvirtinta."
     },
     {
       "name": "Archidea",
       "url": "https://archidea.lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Pradinis adresas neatsakė; naujienų skiltis ir SIRIN šešių atrinktų komandų pranešimas pasiekti."
     },
     {
       "name": "Rīgas Pilsētas attīstības departaments",
       "url": "https://www.rdpad.lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Peržiūrėti naujienų ir 2026.11.05 posėdžio sprendimai: suderintos dviejų Rygos konkursų sąlygos. Viešų pateikimo terminų nepatvirtinta."
     },
     {
       "name": "Rygos savivaldybė",
       "url": "https://www.riga.lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Peržiūrėtas naujienų sąrašas ir tikslinė konkursų paieška; archyvo aprėptis nepatvirtinta."
     },
     {
       "name": "IUB / PVS",
       "url": "https://info.iub.gov.lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "IUB paieškos sąrašas be skaitomo turinio. Per alternatyvią nuorodą pasiektas Ulbrokos skelbimas; terminas 12.21 12:00."
+      "note": "IUB paieškos sąrašas be skaitomo turinio. Per El Vínculo nuorodą atvertas Ulbrokos skelbimas ir patvirtintas terminas."
     },
     {
       "name": "EIS · tiekėjų sistema",
       "url": "https://www.eis.gov.lv/EKEIS/Supplier/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Patikrintos dvi Jelgavos ir Ulbrokos oficialios kortelės. Ulbrokos DOCX neatsivėrė; visa EIS paieškos aprėptis nepatvirtinta."
+      "note": "Patikrintos abi Jelgavos ir Ulbrokos EIS kortelės. Ulbrokos apžiūra numatyta 11.10 10:00, DOCX ir visa EIS paieškos aprėptis nepasiekiami."
     },
     {
       "name": "Iepirkumi.lv",
       "url": "https://www.iepirkumi.lv/lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Portalo vieša dalis ir indeksuoti rezultatai peržiūrėti; visos pirkimų bazės ir dokumentų aprėptis nepatvirtinta."
     },
     {
       "name": "Metukonkurss.lv · Stacijas laukums",
       "url": "https://stacijaslaukums.metukonkurss.lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "unavailable",
       "note": "Tiesioginis puslapis grąžina HTTP 406. LAS skelbime terminas 09.14, FOLD jau paskelbė nugalėtojus."
     },
     {
       "name": "Metukonkurss.lv · RRTS tornis",
       "url": "https://rrts-tornis.metukonkurss.lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "unavailable",
       "note": "Tiesioginis puslapis grąžina HTTP 406. LAS archyve paskelbti ankstesnio konkurso rezultatai."
     },
     {
       "name": "Latvijos kultūros ministerija",
       "url": "https://www.km.gov.lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Peržiūrėtos naujienos ir tikslinė paieška. Viso archyvo bei susietų dokumentų aprėptis nepatvirtinta."
     },
     {
       "name": "Salaspilio savivaldybė",
       "url": "https://salaspils.lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Atvertas alternatyvus savivaldybės puslapis, posėdžio protokolas ir atsakymas apie Nometņu g. parką. Tarybos sprendimas skelbti konkursą yra, tačiau viešo kvietimo ir termino nerasta."
+      "note": "Savivaldybės puslapis ir Nometņu g. parko tarybos sprendimas pasiekti. Viešo kvietimo ir pateikimo termino nepatvirtinta."
     },
     {
       "name": "Daugavpilio viešieji pirkimai",
       "url": "https://www.daugavpils.lv/pasvaldiba/publiskie-iepirkumi/izsludinatie-iepirkumi-un-iepirkuma-proceduras",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Pagrindinis sąrašas pateikė tik dalį turinio. Peržiūrėtas alternatyvus aktyvių pirkimų sąrašas ir indeksuoti ankstesni metu konkursai."
+      "note": "Peržiūrėti savivaldybės aktyvūs pirkimai ir indeksuoti ankstesni metu konkursai. Visų dokumentų aprėptis nepatvirtinta."
     },
     {
       "name": "SIRIN · Latvija",
       "url": "https://www.sirin.eu/lv/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Užsakovo skelbimas pasiektas. Papildomas pranešimas patvirtina, kad atrinktos šešios komandos."
     },
     {
       "name": "LAS · LAS konkursai",
       "url": "https://www.architektusajunga.lt/category/konkursai/las-konkursai/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Peržiūrėta LAS konkursų rubrika; „Mano erdvė“ lieka atrankos pastabose, Priešpilio projektas išrinktas."
     },
     {
       "name": "Jelgavos rajono savivaldybė · pirkimai",
       "url": "https://www.jelgavasnovads.lv/lv/iepirkumi",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Pasiekti pirkimų sąrašas ir oficialus organizatoriaus pranešimas; EIS abiejų mokyklų terminas 11.30 11:00."
     },
     {
       "name": "VissVienā · pirkimų katalogas",
       "url": "https://vissviena.lv/iepirkumi/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Ulbrokos įrašas kataloge rodomas iki 2026.12.21 12:00. Terminas atskirai patvirtintas organizatoriaus, IUB ir EIS."
     },
     {
       "name": "Zemgales Ziņas / ZZ.lv",
       "url": "https://zz.lv/?s=metu+konkurss",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Paieškos adresas neatsivėrė. Patikrintas pradinis puslapis ir indeksuoti regiono rezultatai."
     },
     {
       "name": "Jelgavniekiem.lv · konkursų skelbimai",
       "url": "https://www.jelgavniekiem.lv/zinas/novadu-zinas/izsludinati-metu-konkursi-aizupes-pamatskolas-un-ozolnieku-vidusskolas-piebuvem/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "unavailable",
       "note": "Straipsnis ir pradinis puslapis grąžina HTTP 403. Mokyklų terminai patikrinti per savivaldybę ir EIS."
     },
     {
       "name": "LookUP · Jelgavos pirkimai",
       "url": "https://lookup.lv/pasutitajs/jelgavas-novada-pasvaldiba-90009118031",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Jelgavos užsakovo pirkimų sąrašas pasiektas; visa duomenų bazė ir dokumentai nepatikrinti."
     },
     {
       "name": "OPP · IUB pirkimų paieška",
       "url": "https://opp.lv/procurement/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Pirkimų skiltis neatsivėrė; pradinis puslapis ir indeksuoti rezultatai pasiekti."
     },
     {
       "name": "Atradimų konkursai · oficialus puslapis",
       "url": "https://atradimu404.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Dalyvių registracija baigėsi 10.11; paskelbtas balsavimas iki 11.23, kuris nėra darbų pateikimo terminas."
     },
     {
       "name": "Pirkimų Radaras · projektavimas",
       "url": "https://pirkimuradaras.lt/pirkimai/projektavimas",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Projektavimo sąrašas peržiūrėtas. Žinomų konkursų terminai tikrinti pagal CVP IS; nepatvirtinta pilna aprėptis."
+      "note": "Projektavimo kategorijos santraukoje rodoma 56 atviri pirkimai, tačiau viso sąrašo peržiūra ribota. Žinomų konkursų terminai tikrinti pagal CVP IS."
     },
     {
       "name": "Savanorių pr. 178B · organizatorius",
       "url": "https://www.savanoriu178b.lt/paskelbimas-2/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Oficialus pakeitimas nustato 2026.11.12 12:00 terminą trims uždariems kviestiniams konkursams."
     },
     {
       "name": "TenderRoster · architektūra",
       "url": "https://tenderroster.com/lt/viesieji-pirkimai/lietuva/cpv-71/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Papildomas CPV 71 katalogas. Rasti keturi jau žinomi LT konkursai; terminams taikytos oficialios CVP IS kortelės."
     },
     {
       "name": "El Vínculo · Latvijos pirkimai",
       "url": "https://el-vinculo.com/lv/iepirkumi",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
       "note": "Peržiūrėtas Latvijos katalogas; iš Ulbrokos įrašo nuorodos pasiektas pirminis IUB pranešimas. Viso registro aprėptis nepatvirtinta."
     },
     {
       "name": "JUNG loves · oficialios taisyklės",
       "url": "https://loves.jung.lt/",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "ok",
       "note": "Tiesioginė nuoroda neatsivėrė; per SA.lt nuorodą atvertos oficialios taisyklės. Lietuvoje įgyvendintų darbų paraiškos iki 2027.02.12."
     },
     {
       "name": "Ropažų savivaldybė · pirkimai",
       "url": "https://www.ropazi.lv/lv/iepirkumi",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "partial",
-      "note": "Pirkimų sąrašas ir oficiali Ulbrokos kortelė pasiekti. Skelbiamas 2026.12.21 12:00 terminas ir fizinis pristatymo adresas. Viso archyvo aprėptis nepatvirtinta."
+      "note": "Organizatoriaus sąrašas ir oficiali Ulbrokos kortelė patvirtina 2026.12.21 12:00 terminą bei fizinį pristatymo adresą. Viso archyvo aprėptis nepatvirtinta."
+    },
+    {
+      "name": "ES leidinių biuras · viešieji pirkimai",
+      "url": "https://op.europa.eu/lv/web/public-procurement",
+      "checked_at": "2026-11-09T07:03:15Z",
+      "status": "partial",
+      "note": "Atverta latviška ES pirkimų paieškos versija ir Liepojos miesto erdvių apipavidalinimo kortelė. Pateikimas baigėsi 2026.08.28. Pilna LT ir LV rezultatų aprėptis nepatvirtinta."
     }
   ],
   "competition_checks": [
     {
       "key": "cvp:9116007",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2026-11-23",
       "status": "below_minimum_days",
       "official_url": "https://viesiejipirkimai.lt/epps/cft/prepareViewCfTWS.do?resourceId=9116007",
-      "note": "Oficialioje kortelėje patvirtintas 2026-11-23 terminas. Liko 15 d., todėl konkursas lieka atrankos pastabose.",
-      "days_remaining": 15
+      "note": "Oficialioje kortelėje patvirtintas 2026-11-23 terminas. Liko 14 d., todėl konkursas lieka atrankos pastabose.",
+      "days_remaining": 14
     },
     {
       "key": "cvp:9420296",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2027-01-20",
       "status": "confirmed",
       "official_url": "https://viesiejipirkimai.lt/epps/cft/prepareViewCfTWS.do?resourceId=9420296",
-      "note": "2026.11.08 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Užsakovas atskiru pranešimu patvirtina 2027.01.20 15:00 terminą ir 40 000 € premijų fondą. Premijų PVM nepaskelbtas.",
-      "days_remaining": 73
+      "note": "2026.11.09 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Užsakovas atskiru pranešimu patvirtina 2027.01.20 15:00 terminą ir 40 000 € premijų fondą. Premijų PVM nepaskelbtas.",
+      "days_remaining": 72
     },
     {
       "key": "cvp:8035260",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2026-11-27",
       "status": "below_minimum_days",
       "official_url": "https://viesiejipirkimai.lt/epps/cft/prepareViewCfTWS.do?resourceId=8035260",
-      "note": "Oficialioje kortelėje patvirtintas 2026-11-27 terminas. Liko 19 d., todėl konkursas lieka atrankos pastabose.",
-      "days_remaining": 19
+      "note": "Oficialioje kortelėje patvirtintas 2026-11-27 terminas. Liko 18 d., todėl konkursas lieka atrankos pastabose.",
+      "days_remaining": 18
     },
     {
       "key": "cvp:9358433",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2026-12-01",
       "status": "below_minimum_days",
       "official_url": "https://viesiejipirkimai.lt/epps/cft/prepareViewCfTWS.do?resourceId=9358433",
-      "note": "Oficialioje kortelėje patvirtintas 2026-12-01 terminas. Liko 23 d., todėl konkursas lieka atrankos pastabose.",
-      "days_remaining": 23
+      "note": "Oficialioje kortelėje patvirtintas 2026-12-01 terminas. Liko 22 d., todėl konkursas lieka atrankos pastabose.",
+      "days_remaining": 22
     },
     {
       "key": "cvp:9895792",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2026-12-15",
       "status": "confirmed",
       "official_url": "https://viesiejipirkimai.lt/epps/cft/prepareViewCfTWS.do?resourceId=9895792",
-      "note": "2026.11.08 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešimas patvirtina premijų sumas.",
-      "days_remaining": 37
+      "note": "2026.11.09 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešimas patvirtina premijų sumas.",
+      "days_remaining": 36
     },
     {
       "key": "eis:182692",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2026-11-30",
       "status": "below_minimum_days",
       "official_url": "https://www.eis.gov.lv/EKEIS/Supplier/Procurement/182692",
-      "note": "Oficialioje kortelėje patvirtintas 2026-11-30 terminas. Liko 22 d., todėl konkursas lieka atrankos pastabose.",
-      "days_remaining": 22
+      "note": "Oficialioje kortelėje patvirtintas 2026-11-30 terminas. Liko 21 d., todėl konkursas lieka atrankos pastabose.",
+      "days_remaining": 21
     },
     {
       "key": "eis:182693",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2026-11-30",
       "status": "below_minimum_days",
       "official_url": "https://www.eis.gov.lv/EKEIS/Supplier/Procurement/182693",
-      "note": "Oficialioje kortelėje patvirtintas 2026-11-30 terminas. Liko 22 d., todėl konkursas lieka atrankos pastabose.",
-      "days_remaining": 22
+      "note": "Oficialioje kortelėje patvirtintas 2026-11-30 terminas. Liko 21 d., todėl konkursas lieka atrankos pastabose.",
+      "days_remaining": 21
     },
     {
       "key": "https://eulsukdo-ecoart.com/en/",
@@ -608,22 +615,22 @@
     },
     {
       "key": "cvp:10070039",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2027-01-26",
       "status": "confirmed",
       "official_url": "https://viesiejipirkimai.lt/epps/cft/prepareViewCfTWS.do?resourceId=10070039",
-      "note": "2026.11.08 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Terminas ir premijos taip pat patvirtinti organizatoriaus pranešime.",
-      "days_remaining": 79
+      "note": "2026.11.09 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Terminas ir premijos taip pat patvirtinti organizatoriaus pranešime.",
+      "days_remaining": 78
     },
     {
       "key": "eis:184502",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "deadline": "2026-12-21",
       "status": "confirmed",
       "official_url": "https://www.eis.gov.lv/EKEIS/Supplier/Procurement/184502",
-      "note": "2026.11.08 Užsakovo kortelėje, EIS ir IUB patvirtintas 2026.12.21 12:00 terminas; EIS patvirtina 11.10 10:00 apžiūrą. Sąlygų DOCX šiandien neatsivėrė, todėl premijos ir kitos sąlygos pateikiamos pagal anksčiau perskaitytą dokumentą.",
-      "last_confirmed_at": "2026-11-08",
-      "days_remaining": 43
+      "note": "2026.11.09 Organizatorius, EIS ir IUB patvirtina darbų pateikimą iki 2026.12.21 12:00, EIS nurodo 2026.11.10 10:00 apžiūrą. Dabartinio sąlygų DOCX atverti nepavyko. Apžiūros registracija ir premijos pateiktos pagal anksčiau perskaitytą dokumentą.",
+      "last_confirmed_at": "2026-11-09",
+      "days_remaining": 42
     },
     {
       "key": "https://prixw.com/eng2027",
@@ -637,12 +644,12 @@
     },
     {
       "key": "cvp:10263799",
-      "checked_at": "2026-11-08T07:07:04Z",
+      "checked_at": "2026-11-09T07:03:15Z",
       "status": "confirmed",
       "deadline": "2027-01-12",
-      "days_remaining": 65,
+      "days_remaining": 64,
       "official_url": "https://viesiejipirkimai.lt/epps/cft/prepareViewCfTWS.do?resourceId=10263799",
-      "note": "2026.11.08 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešime nurodytas 26 000 € fondas ir 11 000 € I vietos premija."
+      "note": "2026.11.09 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešime nurodytas 26 000 € fondas ir 11 000 € I vietos premija."
     }
   ],
   "run_history": [
@@ -1110,6 +1117,36 @@
         "pages_source_commit": "ccbcc74a44bfcacd1be077f8600ebc7bfa2ff497",
         "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/42349962457"
       }
+    },
+    {
+      "started_at": "2026-11-08T06:58:39Z",
+      "finished_at": "2026-11-08T07:09:16Z",
+      "status": "partial",
+      "checked_source_count": 57,
+      "total_source_count": 57,
+      "successful_source_count": 24,
+      "partial_source_count": 30,
+      "unavailable_source_count": 3,
+      "new_competition_keys": [],
+      "removed_from_active": [],
+      "restored_to_active": [],
+      "notification_status": "not_needed",
+      "error_summary": "Aplankyti visi 57 šaltiniai: 24 patikrinti, 30 iš dalies, 3 nepasiekiami. Atrankos riba 2026.12.06. Pagrindinėje lentelėje 5 projektų konkursai (LT 4, LV 1); terminai nepasikeitė. Ropažų savivaldybės kortelė patvirtina Ulbrokos terminą ir fizinį pristatymo adresą; IUB nurodo elektroninį pateikimą, todėl prieš teikiant reikia užsakovo patvirtinimo. Klaipėdos savivaldybė patvirtina Tauralaukio terminą ir 40 000 € premijų fondą. Į stebėjimą įtrauktas Salaspilio parkas: taryba patvirtino 30 000 € premijų fondą, viešas pateikimo terminas nepatvirtintas. Naujo tinkamo projekto konkurso nepatvirtinta. Dalis CVP IS, EIS ir TED dokumentų bei registrų paieškų nepasiekiami. Nepasiekiami Stacijas, RRTS ir Jelgavniekiem puslapiai. GitHub Pages publikavimas patvirtintas. Viešo domeno turinio patvirtinti nepavyko dėl ryšio klaidos.",
+      "site_verification": {
+        "live_site_read": "Viešo domeno turinys nepatvirtintas. Naršyklė grąžino ryšio klaidą ir po publikavimo.",
+        "pages_conclusion": "success",
+        "notification_delivery": "not_needed",
+        "validation": "JavaScript sintaksė ir DOM imitacija patikrintos: 5 unikalūs LT/LV konkursai, 2 apdovanojimai, 6 stebėjimo kortelės, 57 šaltiniai, Latvijos filtras, paieška, CSV datos ir 5 skirtukai.",
+        "cname": "konkursai.aimm.lt",
+        "index_commit": "8bb443cc0ca2b02fd6024e59c01fc108474e91df",
+        "index_readback": "matched",
+        "readme_readback": "matched",
+        "outbox_readback": "unchanged",
+        "deliveries_readback": "unchanged",
+        "pages_workflow_run_id": 42457528073,
+        "pages_source_commit": "0af877d95aa48c9fabda87f239569da548f5aecb",
+        "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/42457528073"
+      }
     }
   ],
   "last_confirmed_records": {
@@ -1166,7 +1203,7 @@
       "deadline": "2026-12-21",
       "time": "12:00",
       "timezone": "Europe/Riga",
-      "checked_at": "2026-11-08",
+      "checked_at": "2026-11-09",
       "prize": 18000,
       "prizeText": "18 000 € su PVM",
       "prizeNote": "I / II / III: 9 000 / 5 000 / 4 000 € su PVM; žiuri gali perskirstyti išlaikydama bendrą fondą.",
@@ -1176,7 +1213,7 @@
       "buildNote": "Tik I etapo dienos centro (~250 m²) statybai ir gretimam aplinkos tvarkymui; PVM formuluotė nenurodyta. Viso komplekso realizavimo biudžetas nepatvirtintas.",
       "requirements": "Atviras anoniminis metu konkurss RNP 2026/115. Viso socialinių paslaugų, meno ir muzikos mokyklos komplekso koncepcija ir generalinis planas, detalus I etapo dienos centro sprendinys. Sąlygose: A1 spaudiniai ir PDF laikmenoje, du uždari paketai fiziškai Institūta iela 1A, Ulbrokoje; latvių kalba. Įmonei ir projekto vadovui reikia 2019–2026 m. bent vieno vieningo ≥3 viešųjų pastatų komplekso projekto su aplinka, ≥50 vietų parkavimu ir infrastruktūra patirties. Užsienio kvalifikacijos pripažinimas pagal sąlygas.",
       "questions": "Klausimai raštu per EIS arba užsakovui; atsakymai skelbiami EIS. Atskiros klausimų datos nenustatyta.",
-      "registration": "Objekto apžiūra 2026.11.10 10:00; registracija į apžiūrą iki 11.09 16:00. Atskiro ankstesnio privalomo registracijos į konkursą termino nenustatyta.",
+      "registration": "EIS skelbia objekto apžiūrą 2026.11.10 10:00 Rygos laiku. Pagal anksčiau perskaitytas sąlygas į apžiūrą registruojamasi iki 2026.11.09 16:00 Rygos laiku. Atskiro privalomo registracijos į konkursą termino nenustatyta.",
       "next": "Užsakovo kortelėje ir EIS nurodytas fizinis pristatymo adresas Institūta iela 1A, Ulbrokoje. IUB skelbime nurodytas elektroninis pateikimas. Anksčiau perskaitytos sąlygos reikalauja fizinio pateikimo, o voko pavyzdyje likusi ankstesnė data ir kitas pirkimo numeris. Prieš pateikdami darbą pasitikslinkite su užsakovu.",
       "links": [
         [
@@ -1196,7 +1233,7 @@
           "https://www.ropazi.lv/lv/iepirkums/sabiedriba-balstitu-socialo-pakalpojumu-un-makslas-un-muzikas-skolas-komplekss-ulbroka-attistibas-koncepcijas-un-generalplana-izstrade-instituta-iela-3-ulbroka-stopinu-pagasta-ropazu-novada"
         ]
       ],
-      "verification_note": "2026.11.08 Užsakovo kortelėje, EIS ir IUB patvirtintas 2026.12.21 12:00 terminas; EIS patvirtina 11.10 10:00 apžiūrą. Sąlygų DOCX šiandien neatsivėrė, todėl premijos ir kitos sąlygos pateikiamos pagal anksčiau perskaitytą dokumentą."
+      "verification_note": "2026.11.09 Organizatorius, EIS ir IUB patvirtina darbų pateikimą iki 2026.12.21 12:00, EIS nurodo 2026.11.10 10:00 apžiūrą. Dabartinio sąlygų DOCX atverti nepavyko. Apžiūros registracija ir premijos pateiktos pagal anksčiau perskaitytą dokumentą."
     },
     "cvp:9116007": {
       "id": "alytus",
@@ -1276,10 +1313,10 @@
           "https://www.klaipeda.lt/lt/naujienos/naujienu-prenumerata/7666/klaipeda-kviecia-kurti-tauralaukio-ateiti-konkursiniu-darbu-pateikimo-terminas-pratestas-iki-2027-m.-sausio-20-d.:7848"
         ]
       ],
-      "checked_at": "2026-11-08",
+      "checked_at": "2026-11-09",
       "timezone": "Europe/Vilnius",
       "registration": "Atskiro ankstesnio privalomos registracijos termino patikrintame skelbime nenustatyta; CVP IS paskyra būtina pateikimui.",
-      "verification_note": "2026.11.08 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Užsakovas atskiru pranešimu patvirtina 2027.01.20 15:00 terminą ir 40 000 € premijų fondą. Premijų PVM nepaskelbtas."
+      "verification_note": "2026.11.09 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Užsakovas atskiru pranešimu patvirtina 2027.01.20 15:00 terminą ir 40 000 € premijų fondą. Premijų PVM nepaskelbtas."
     },
     "cvp:8035260": {
       "id": "siauliai",
@@ -1480,10 +1517,10 @@
           "https://viesiejipirkimai.lt/epps/cft/listContractDocuments.do?resourceId=9895792"
         ]
       ],
-      "checked_at": "2026-11-08",
+      "checked_at": "2026-11-09",
       "timezone": "Europe/Vilnius",
       "registration": "Atskiro ankstesnio privalomos registracijos termino patikrintame skelbime nenustatyta; CVP IS paskyra būtina pateikimui.",
-      "verification_note": "2026.11.08 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešimas patvirtina premijų sumas."
+      "verification_note": "2026.11.09 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešimas patvirtina premijų sumas."
     },
     "cvp:10070039": {
       "id": "birstonas-administracija",
@@ -1496,7 +1533,7 @@
       "deadline": "2027-01-26",
       "time": "15:00",
       "timezone": "Europe/Vilnius",
-      "checked_at": "2026-11-08",
+      "checked_at": "2026-11-09",
       "prize": 25000,
       "prizeText": "25 000 €",
       "prizeNote": "I / II / III: 12 000 / 8 000 / 5 000 € · sąlygų 88 p.; premijų PVM nenurodytas",
@@ -1522,7 +1559,7 @@
           "https://ted.europa.eu/en/notice/-/detail/732019-2026"
         ]
       ],
-      "verification_note": "2026.11.08 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Terminas ir premijos taip pat patvirtinti organizatoriaus pranešime."
+      "verification_note": "2026.11.09 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Terminas ir premijos taip pat patvirtinti organizatoriaus pranešime."
     },
     "cvp:10263799": {
       "id": "filaretu-darzelis",
@@ -1535,7 +1572,7 @@
       "deadline": "2027-01-12",
       "time": "11:00",
       "timezone": "Europe/Vilnius",
-      "checked_at": "2026-11-08",
+      "checked_at": "2026-11-09",
       "prize": 26000,
       "prizeText": "26 000 €",
       "prizeNote": "I vieta – 11 000 €. Fondas skirtas trims vietoms; II ir III vietų sumos bei PVM savivaldybės pranešime nenurodyti.",
@@ -1547,7 +1584,7 @@
       "questions": "Klausimai iki 2026.12.19 00:00 (CVP IS).",
       "registration": "Oficiali kortelė leidžia pareikšti susidomėjimą; ankstesnis atskiras registracijos terminas kortelėje nenurodytas. Visų sąlygų patvirtinti nepavyko.",
       "next": "Paskelbta 2026.10.30 05:30. Tai atskiras konkursas 10263799, pakeičiantis stebėtą rinkos konsultacijos įrašą 9775690.",
-      "verification_note": "2026.11.08 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešime nurodytas 26 000 € fondas ir 11 000 € I vietos premija.",
+      "verification_note": "2026.11.09 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešime nurodytas 26 000 € fondas ir 11 000 € I vietos premija.",
       "links": [
         [
           "CVP IS · 10263799",
@@ -1617,14 +1654,14 @@
       "name": "JUNG loves 2026–2027",
       "text": "Teikiami Lietuvoje įgyvendinti ir ne anksčiau kaip 2025.01.01 užbaigti privatūs arba vieši projektai. Gali dalyvauti Lietuvoje dirbantys architektai, interjero dizaineriai ir studijos; iki penkių projektų vienam dalyviui. Projekte naudojami elektros instaliacijos ar išmaniųjų namų valdymo produktai turi būti JUNG gamybos. Pagrindinis prizas – vieno asmens kelionė į 2027 m. „Salone del Mobile“ parodą Milane. Piniginė vertė nepaskelbta.",
       "date": "2027.02.12",
-      "value": "96 d. nuo patikros",
+      "value": "95 d. nuo patikros",
       "links": [
         [
           "Taisyklės ir pateikimas",
           "https://loves.jung.lt/"
         ]
       ],
-      "checked_at": "2026-11-08",
+      "checked_at": "2026-11-09",
       "country": "LT"
     }
   }
