@@ -9,7 +9,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 ## Turinys
 
 - 5 projektų konkursai pagrindinėje lentelėje (4 Lietuvoje, 1 Latvijoje).
-- 59 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 15 papildomų).
+- 61 Lietuvos ir Latvijos šaltinio katalogas (44 pradiniai ir 17 papildomų).
 - 2 įgyvendintų darbų apdovanojimų konkursai.
 - 6 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
@@ -28,7 +28,7 @@ Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masy
 
 ## Patikra · 2026-11-10
 
-Aplankyti visi 59 šaltiniai: 23 patikrinti, 33 iš dalies, 3 nepasiekiami. Atrankos riba 2026.12.08. Pagrindinėje lentelėje 5 projektų konkursai (LT 4, LV 1). Pateikimo terminai ir žinomos sumos nepasikeitė. Ulbrokos darbų terminas 2026.12.21 12:00. Gervėčių g. 4 uždaras konkursas ir Klaipėdos karininkų ramovės projektavimo paslaugų pirkimas paaiškinti atrankos pastabose. Naujo tinkamo projekto konkurso nepatvirtinta. Dalies CVP IS, EIS ir TED dokumentų bei pilnos registrų paieškos patvirtinti nepavyko.
+Aplankytas visas 61 šaltinių katalogas: 24 patikrinti, 36 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.08. Pagrindinėje lentelėje 5 projektų konkursai (LT 4, LV 1). Pateikimo terminų ir žinomų sumų pakeitimų nerasta. Ulbrokos darbų terminą 2026.12.21 12:00 patvirtina IUB. Gervėčių g. 4 uždaras konkursas ir Klaipėdos karininkų ramovės projektavimo paslaugų pirkimas paaiškinti atrankos pastabose. Katalogas papildytas „Linstow Baltic“ ir LVRTC šaltiniais. Naujo tinkamo projekto konkurso nepatvirtinta. Dalies CVP IS, EIS ir TED dokumentų bei pilnos registrų paieškos patvirtinti nepavyko.
 
 ## Patikra · 2026-11-09
 
