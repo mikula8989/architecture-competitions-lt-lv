@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-09**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-07 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-10**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-08 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -9,7 +9,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 ## Turinys
 
 - 5 projektų konkursai pagrindinėje lentelėje (4 Lietuvoje, 1 Latvijoje).
-- 58 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 14 papildomų).
+- 59 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 15 papildomų).
 - 2 įgyvendintų darbų apdovanojimų konkursai.
 - 6 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-10
+
+Aplankyti visi 59 šaltiniai: 23 patikrinti, 33 iš dalies, 3 nepasiekiami. Atrankos riba 2026.12.08. Pagrindinėje lentelėje 5 projektų konkursai (LT 4, LV 1). Pateikimo terminai ir žinomos sumos nepasikeitė. Ulbrokos darbų terminas 2026.12.21 12:00. Gervėčių g. 4 uždaras konkursas ir Klaipėdos karininkų ramovės projektavimo paslaugų pirkimas paaiškinti atrankos pastabose. Naujo tinkamo projekto konkurso nepatvirtinta. Dalies CVP IS, EIS ir TED dokumentų bei pilnos registrų paieškos patvirtinti nepavyko.
 
 ## Patikra · 2026-11-09
 
