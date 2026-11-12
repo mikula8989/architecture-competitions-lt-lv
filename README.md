@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-11**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-09 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-12**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-10 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -9,7 +9,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 ## Turinys
 
 - 5 projektų konkursai pagrindinėje lentelėje (4 Lietuvoje, 1 Latvijoje).
-- 61 Lietuvos ir Latvijos šaltinio katalogas (44 pradiniai ir 17 papildomų).
+- 63 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 19 papildomų).
 - 2 įgyvendintų darbų apdovanojimų konkursai.
 - 5 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-12
+
+Aplankytas visas 63 šaltinių katalogas. 23 šaltiniai patikrinti, 39 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.10. Pagrindinėje lentelėje 5 projektų konkursai (LT 4, LV 1). Terminų ir žinomų sumų pakeitimų nerasta. Sendvario konkursas baigtas ir pasirašyta projektavimo sutartis. Katalogas papildytas Klaipėdos rajono savivaldybe ir Latvijos IUB duomenimis paremtu CPV 71 katalogu. Naujo tinkamo projekto konkurso nepatvirtinta. Dalis CVP IS, EIS ir TED dokumentų bei pilna registrų paieška neprieinami.
 
 ## Patikra · 2026-11-11
 
