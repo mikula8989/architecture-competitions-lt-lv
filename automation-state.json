@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-11-15T07:06:11Z",
-    "finished_at": null,
+    "finished_at": "2026-11-15T07:11:18Z",
     "status": "partial",
     "checked_source_count": 65,
     "total_source_count": 65,
@@ -17,12 +17,28 @@
     ],
     "removed_from_active": [],
     "restored_to_active": [],
-    "notification_status": "pending",
-    "error_summary": "Aplankytas visas 65 šaltinių katalogas. 25 šaltiniai patikrinti, 39 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.13. Pagrindinėje lentelėje 6 projektų konkursai (LT 4, LV 2). Pridėtas „Hartmaņa kvartāls“ stogo sodo eskizų konkursas Rygoje. Pateikimo terminas 2026.12.15, premijų fondas 2 400 €. Anksčiau įtrauktų konkursų terminų pakeitimų nerasta. Dalis CVP IS, EIS, TED ir naujo Rygos konkurso dokumentų liko neprieinami.",
+    "notification_status": "sent",
+    "error_summary": "Aplankytas visas 65 šaltinių katalogas. 25 šaltiniai patikrinti, 39 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.13. Pagrindinėje lentelėje 6 projektų konkursai (LT 4, LV 2). Pridėtas „Hartmaņa kvartāls“ stogo sodo eskizų konkursas Rygoje. Pateikimo terminas 2026.12.15, premijų fondas 2 400 €. Anksčiau įtrauktų konkursų terminų pakeitimų nerasta. Dalis CVP IS, EIS, TED ir naujo Rygos konkurso dokumentų liko neprieinami. Viešas domenas patikros naršyklėje grąžino HTTP/2 protokolo klaidą.",
     "site_verification": {
       "cname": "konkursai.aimm.lt",
       "index_commit": "0c9f97f9cc2c0ef02849c88f54ff6099868d55d0",
-      "index_readback": "matched"
+      "index_readback": "matched",
+      "pages_conclusion": "success",
+      "live_site_read": "ERR_HTTP2_PROTOCOL_ERROR",
+      "notification_delivery": "sent",
+      "readme_readback": "matched",
+      "outbox_readback": "matched",
+      "deliveries_readback": "sent",
+      "pages_workflow_run_id": 43688719879,
+      "pages_source_commit": "debec7c97e4c908492f4694866f3ca44f45cac41",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/43688719879",
+      "validation": "Patikrinti 5 skirtukai, 6 konkursai, 65 šaltiniai, Latvijos ir kraštovaizdžio filtrai bei CSV data."
+    },
+    "notification_workflow": {
+      "run_id": 43688698385,
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/43688698385"
     }
   },
   "known_competitions": [
@@ -126,9 +142,10 @@
       "key": "https://www.lma.lv/aktuali/izsludinats-lma-studentu-ideju-skicu-konkurss-hartmana-kvartala-jumta-darzam",
       "title": "„Hartmaņa kvartāls“ stogo sodo eskizai",
       "first_seen": "2026-11-15",
-      "notification": "pending",
+      "notification": "sent",
       "deadline": "2026-12-15",
-      "project_country": "LV"
+      "project_country": "LV",
+      "notified_at": "2026-11-15T07:10:04.458885+00:00"
     }
   ],
   "source_checks": [
@@ -1507,7 +1524,7 @@
       "deadline": "2026-12-21",
       "time": "12:00",
       "timezone": "Europe/Riga",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "prize": 18000,
       "prizeText": "18 000 € su PVM",
       "prizeNote": "I / II / III: 9 000 / 5 000 / 4 000 € su PVM; žiuri gali perskirstyti išlaikydama bendrą fondą.",
@@ -1537,7 +1554,7 @@
           "https://www.ropazi.lv/lv/iepirkums/sabiedriba-balstitu-socialo-pakalpojumu-un-makslas-un-muzikas-skolas-komplekss-ulbroka-attistibas-koncepcijas-un-generalplana-izstrade-instituta-iela-3-ulbroka-stopinu-pagasta-ropazu-novada"
         ]
       ],
-      "verification_note": "2026.11.14 EIS ir IUB patvirtina darbų pateikimo terminą 2026.12.21 12:00. Aktualaus DOCX perskaityti nepavyko. Premijos ir apžiūros registracija nurodytos pagal anksčiau perskaitytas sąlygas."
+      "verification_note": "2026.11.15 EIS ir IUB patvirtina darbų pateikimo terminą 2026.12.21 12:00. Aktualaus DOCX perskaityti nepavyko. Premijos ir apžiūros registracija nurodytos pagal anksčiau perskaitytas sąlygas."
     },
     "cvp:9116007": {
       "id": "alytus",
@@ -1617,10 +1634,10 @@
           "https://www.klaipeda.lt/lt/naujienos/naujienu-prenumerata/7666/klaipeda-kviecia-kurti-tauralaukio-ateiti-konkursiniu-darbu-pateikimo-terminas-pratestas-iki-2027-m.-sausio-20-d.:7848"
         ]
       ],
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "timezone": "Europe/Vilnius",
       "registration": "Atskiro ankstesnio privalomos registracijos termino patikrintame skelbime nenustatyta; CVP IS paskyra būtina pateikimui.",
-      "verification_note": "2026.11.14 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Užsakovas atskiru pranešimu patvirtina 2027.01.20 15:00 terminą ir 40 000 € premijų fondą. Premijų PVM nepaskelbtas."
+      "verification_note": "2026.11.15 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Užsakovas atskiru pranešimu patvirtina 2027.01.20 15:00 terminą ir 40 000 € premijų fondą. Premijų PVM nepaskelbtas."
     },
     "cvp:8035260": {
       "id": "siauliai",
@@ -1821,10 +1838,10 @@
           "https://viesiejipirkimai.lt/epps/cft/listContractDocuments.do?resourceId=9895792"
         ]
       ],
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "timezone": "Europe/Vilnius",
       "registration": "Atskiro ankstesnio privalomos registracijos termino patikrintame skelbime nenustatyta; CVP IS paskyra būtina pateikimui.",
-      "verification_note": "2026.11.14 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešimas patvirtina premijų sumas."
+      "verification_note": "2026.11.15 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešimas patvirtina premijų sumas."
     },
     "cvp:10070039": {
       "id": "birstonas-administracija",
@@ -1837,7 +1854,7 @@
       "deadline": "2027-01-26",
       "time": "15:00",
       "timezone": "Europe/Vilnius",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "prize": 25000,
       "prizeText": "25 000 €",
       "prizeNote": "I / II / III: 12 000 / 8 000 / 5 000 € · sąlygų 88 p.; premijų PVM nenurodytas",
@@ -1863,7 +1880,7 @@
           "https://ted.europa.eu/en/notice/-/detail/732019-2026"
         ]
       ],
-      "verification_note": "2026.11.14 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Terminas ir premijos taip pat patvirtinti organizatoriaus pranešime."
+      "verification_note": "2026.11.15 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Terminas ir premijos taip pat patvirtinti organizatoriaus pranešime."
     },
     "cvp:10263799": {
       "id": "filaretu-darzelis",
@@ -1876,7 +1893,7 @@
       "deadline": "2027-01-12",
       "time": "11:00",
       "timezone": "Europe/Vilnius",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "prize": 26000,
       "prizeText": "26 000 €",
       "prizeNote": "I vieta – 11 000 €. Fondas skirtas trims vietoms; II ir III vietų sumos bei PVM savivaldybės pranešime nenurodyti.",
@@ -1888,7 +1905,7 @@
       "questions": "Klausimai iki 2026.12.19 00:00 (CVP IS).",
       "registration": "Oficiali kortelė leidžia pareikšti susidomėjimą; ankstesnis atskiras registracijos terminas kortelėje nenurodytas. Visų sąlygų patvirtinti nepavyko.",
       "next": "Paskelbta 2026.10.30 05:30. Tai atskiras konkursas 10263799, pakeičiantis stebėtą rinkos konsultacijos įrašą 9775690.",
-      "verification_note": "2026.11.14 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešime nurodytas 26 000 € fondas ir 11 000 € I vietos premija.",
+      "verification_note": "2026.11.15 CVP IS patvirtintas tas pats pateikimo terminas. Sąlygų paketo atverti nepavyko. Savivaldybės pranešime nurodytas 26 000 € fondas ir 11 000 € I vietos premija.",
       "links": [
         [
           "CVP IS · 10263799",
