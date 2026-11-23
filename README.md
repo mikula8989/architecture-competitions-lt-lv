@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-21**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-19 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-23**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-21 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -9,7 +9,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 ## Turinys
 
 - 5 projektų konkursai pagrindinėje lentelėje (4 Lietuvoje, 1 Latvijoje).
-- 69 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 25 papildomi).
+- 70 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 26 papildomi).
 - 2 įgyvendintų darbų apdovanojimų konkursai.
 - 5 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
 - Paieška, šalies ir srities filtrai, rikiavimas, vietinė konkursų atranka bei CSV eksportas.
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-23
+
+Aplankyti visi 69 ankstesni katalogo šaltiniai ir papildoma Latvijos kraštovaizdžio architektų asociacijos konkursų skiltis: iš viso 70 šaltinių, 23 patikrinti, 46 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.21. Lentelėje 5 projektų konkursai (LT 4, LV 1), oficialūs terminai nepasikeitė. Ulbrokai liko lygiai 28 dienos. Naujo tinkamo LT/LV projekto konkurso nepatvirtinta. VUGD saugos klasių konkurso rezultatai paskelbti, naujo kvietimo nėra. Dalies CVP IS, EIS ir TED dokumentų, IUB bei pilnos registrų paieškos pasiekti nepavyko; dalis puslapių kopijų senesnės. Latvijos LAS puslapiai pateikė tik dalį sąrašų. „Jelgavniekiem“ HTTP 403, Stacijas HTTP 406; RRTS puslapis nepateikė sąlygų, oficialios organizatorių alternatyvos peržiūrėtos.
 
 ## Patikra · 2026-11-21
 
