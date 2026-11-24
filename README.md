@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-23**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-21 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-24**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-22 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -8,7 +8,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 
 ## Turinys
 
-- 5 projektų konkursai pagrindinėje lentelėje (4 Lietuvoje, 1 Latvijoje).
+- 4 projektų konkursai pagrindinėje lentelėje (visi Lietuvoje).
 - 70 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 26 papildomi).
 - 2 įgyvendintų darbų apdovanojimų konkursai.
 - 5 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-24
+
+Aplankyti visi 70 katalogo šaltinių: 23 patikrinti, 46 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.22. Pagrindinėje lentelėje liko 4 projektų konkursai, visi Lietuvoje. Ulbrokos konkurso EIS terminas 2026.12.21 12:00 nepasikeitė, tačiau liko 27 dienos, todėl jis perkeltas į atrankos pastabas. Kitų konkursų pateikimo terminai nepasikeitė. Naujo tinkamo LT/LV projekto konkurso nepatvirtinta. Dalies CVP IS, EIS ir TED dokumentų, IUB bei pilnos registrų paieškos pasiekti nepavyko; dalis kopijų senesnės. Latvijos LAS puslapiai pateikė tik dalį sąrašų. Archidea ir Ulbrokos užsakovo kortelė grąžino timeout, „Jelgavniekiem“ HTTP 403, Stacijas ir RRTS HTTP 406; alternatyvūs šaltiniai ir paieškos patikrinti.
 
 ## Patikra · 2026-11-23
 
