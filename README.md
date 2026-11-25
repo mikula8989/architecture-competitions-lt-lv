@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-24**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-22 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-25**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-23 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-25
+
+Aplankyti visi 70 katalogo šaltinių: 22 patikrinti, 47 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.23. Pagrindinėje lentelėje 4 projektų konkursai, visi Lietuvoje; jų oficialūs pateikimo terminai nepasikeitė. Tarandės progimnazijos CVP IS terminas pratęstas iki 2026.12.22 10:00, tačiau liko 27 dienos, todėl konkursas lieka atrankos pastabose. Naujo tinkamo LT/LV projekto konkurso nepatvirtinta. Dalies CVP IS ir EIS dokumentų, TED turinio, IUB bei pilnos registrų paieškos pasiekti nepavyko; dalis kopijų senesnės. Latvijos LAS puslapiai pateikė tik dalį sąrašų. LAR ir Archidea pradinių puslapių timeout; alternatyvūs adresai pasiekti. „Jelgavniekiem“ HTTP 403, Stacijas ir RRTS HTTP 406; organizatorių alternatyvos peržiūrėtos.
 
 ## Patikra · 2026-11-24
 
