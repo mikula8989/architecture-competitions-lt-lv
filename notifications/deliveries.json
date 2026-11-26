@@ -36,6 +36,10 @@
     "competition:https://www.lma.lv/aktuali/izsludinats-lma-studentu-ideju-skicu-konkurss-hartmana-kvartala-jumta-darzam": {
       "status": "sent",
       "updated_at": "2026-11-15T07:10:04.458885+00:00"
+    },
+    "competition:eis:186809": {
+      "status": "sending",
+      "updated_at": "2026-11-26T07:08:30.102805+00:00"
     }
   }
 }
