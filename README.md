@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-25**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-23 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-26**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-24 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -8,7 +8,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 
 ## Turinys
 
-- 4 projektų konkursai pagrindinėje lentelėje (visi Lietuvoje).
+- 6 projektų konkursai pagrindinėje lentelėje (LT 4, LV 2).
 - 70 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 26 papildomi).
 - 2 įgyvendintų darbų apdovanojimų konkursai.
 - 5 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-26
+
+Aplankyti visi 70 katalogo šaltinių: 22 patikrinti, 47 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.24. Pagrindinėje lentelėje 6 konkursai (LT 4, LV 2). Naujas Daugpilio kultūros rūmų lauko erdvės konkursas DVP 2026/199: 2027.01.13 14:00, 48 dienos, 6 000 € premijų fondas; projektavimo vertė nepaskelbta. Ulbrokos terminas pratęstas iki 2027.01.11 12:00, liko 46 dienos, todėl grąžintas į aktualią lentelę. Kitų aktyvių konkursų terminai nepasikeitė. Tarandės 12.22 terminas lieka per artimas (26 dienos). Perskaitytas Daugpilio oficialus IUB skelbimas, bet pilnų EIS ir dalies CVP IS sąlygų, TED turinio bei visos registrų paieškos aprėpties patvirtinti nepavyko. Archidea ir Ulbrokos užsakovo kortelė grąžino timeout; „Jelgavniekiem“ HTTP 403, Stacijas ir RRTS HTTP 406; pasiekiami alternatyvūs adresai ir paieškos peržiūrėti.
 
 ## Patikra · 2026-11-25
 
