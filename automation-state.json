@@ -5,7 +5,7 @@
   "initialized_at": "2026-10-19",
   "last_run": {
     "started_at": "2026-11-26T07:04:17Z",
-    "finished_at": null,
+    "finished_at": "2026-11-26T07:09:56Z",
     "status": "partial",
     "checked_source_count": 70,
     "total_source_count": 70,
@@ -19,8 +19,25 @@
     "restored_to_active": [
       "eis:184502"
     ],
-    "notification_status": "pending",
-    "error_summary": "Aplankyti visi 70 katalogo šaltinių: 22 patikrinti, 47 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.24. Pagrindinėje lentelėje 6 konkursai (LT 4, LV 2). Naujas Daugpilio kultūros rūmų lauko erdvės konkursas DVP 2026/199: 2027.01.13 14:00, 48 dienos, 6 000 € premijų fondas; projektavimo vertė nepaskelbta. Ulbrokos terminas pratęstas iki 2027.01.11 12:00, liko 46 dienos, todėl grąžintas į aktualią lentelę. Kitų aktyvių konkursų terminai nepasikeitė. Tarandės 12.22 terminas lieka per artimas (26 dienos). Perskaitytas Daugpilio oficialus IUB skelbimas, bet pilnų EIS ir dalies CVP IS sąlygų, TED turinio bei visos registrų paieškos aprėpties patvirtinti nepavyko. Archidea ir Ulbrokos užsakovo kortelė grąžino timeout; „Jelgavniekiem“ HTTP 403, Stacijas ir RRTS HTTP 406; pasiekiami alternatyvūs adresai ir paieškos peržiūrėti."
+    "notification_status": "sent",
+    "error_summary": "Aplankyti visi 70 katalogo šaltinių: 22 patikrinti, 47 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.24. Pagrindinėje lentelėje 6 konkursai (LT 4, LV 2). Naujas Daugpilio kultūros rūmų lauko erdvės konkursas DVP 2026/199: 2027.01.13 14:00, 48 dienos, 6 000 € premijų fondas; projektavimo vertė nepaskelbta. Ulbrokos terminas pratęstas iki 2027.01.11 12:00, liko 46 dienos, todėl grąžintas į aktualią lentelę. Kitų aktyvių konkursų terminai nepasikeitė. Tarandės 12.22 terminas lieka per artimas (26 dienos). Perskaitytas Daugpilio oficialus IUB skelbimas, bet pilnų EIS ir dalies CVP IS sąlygų, TED turinio bei visos registrų paieškos aprėpties patvirtinti nepavyko. Archidea ir Ulbrokos užsakovo kortelė grąžino timeout; „Jelgavniekiem“ HTTP 403, Stacijas ir RRTS HTTP 406; pasiekiami alternatyvūs adresai ir paieškos peržiūrėti. Viešo domeno patikra naršyklėje grąžino ERR_HTTP2_PROTOCOL_ERROR; GitHub Pages diegimas sėkmingas.",
+    "site_verification": {
+      "cname": "konkursai.aimm.lt",
+      "index_commit": "6e0bd9f5f22261b051d256ac092e2d170523e0bf",
+      "index_readback": "matched",
+      "readme_readback": "matched",
+      "pages_conclusion": "success",
+      "pages_workflow_run_id": 45773126451,
+      "pages_source_commit": "f3f6b33aaa20fa7abfe255cbb07117535893b059",
+      "pages_url": "https://github.com/mikula8989/architecture-competitions-lt-lv/actions/runs/45773126451",
+      "live_site_read": "ERR_HTTP2_PROTOCOL_ERROR",
+      "notification_delivery": "sent",
+      "notification_workflow_run_id": 45773108200,
+      "notification_workflow_conclusion": "success",
+      "outbox_readback": "matched",
+      "deliveries_readback": "sent",
+      "validation": "JavaScript, 5 skirtukai, 6 konkursai (LT 4, LV 2), 2 apdovanojimai, 5 stebėjimo kortelės, 70 šaltinių ir patikrų; LT/LV filtrai ir CSV data patikrinti, stiliai išsaugoti."
+    }
   },
   "known_competitions": [
     {
@@ -136,7 +153,8 @@
       "country": "LV",
       "deadline": "2027-01-13",
       "first_seen": "2026-11-26",
-      "notification": "pending"
+      "notification": "sent",
+      "notified_at": "2026-11-26T07:08:32.463527+00:00"
     }
   ],
   "source_checks": [
