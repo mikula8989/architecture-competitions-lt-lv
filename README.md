@@ -1,6 +1,6 @@
 # Architektūros konkursai · LT / LV
 
-Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-26**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-24 arba vėliau**.
+Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomenys tikrinti **2026-11-27**. Į pagrindinį sąrašą įtraukti oficialiai patvirtinti projektų konkursai, kurių darbų pateikimo data yra **2026-12-25 arba vėliau**.
 
 ## Geografinė atranka
 
@@ -8,7 +8,7 @@ Lietuvos ir Latvijos architektūros bei urbanistikos konkursų apžvalga. Duomen
 
 ## Turinys
 
-- 6 projektų konkursai pagrindinėje lentelėje (LT 4, LV 2).
+- 5 projektų konkursai pagrindinėje lentelėje (LT 3, LV 2).
 - 70 Lietuvos ir Latvijos šaltinių katalogas (44 pradiniai ir 26 papildomi).
 - 2 įgyvendintų darbų apdovanojimų konkursai.
 - 5 nepatvirtinti ar papildomo patikslinimo reikalaujantys kvietimai.
@@ -25,6 +25,10 @@ Tai momentinė apžvalga, o ne automatiškai atnaujinamas registras. Prie kiekvi
 Prizų fondas, projektavimo honoraras ir statybos / realizacijos biudžetas pateikti atskirai. Nežinomos sumos nežymimos nuliu. Latvijoje patvirtinti Ozolnieku vidurinės ir Aizupės pagrindinės mokyklų priestatų konkursai: iki 2026-11-30 11:00 Europe/Riga, po 10 000 € be PVM prizų fondo. Patikrintos 2026-10-06 sąlygų redakcijos; senesnio pranešimo lapkričio 2 d. data pakeista.
 
 Duomenys ir puslapio stiliai įtraukti į `index.html`; konkursai aprašyti masyve `competitions`, šaltiniai – `sources`, papildomi kvietimai – `watch`.
+
+## Patikra · 2026-11-27
+
+Aplankyti visi 70 katalogo šaltinių: 21 patikrintas, 48 iš dalies, 1 nepasiekiamas. Atrankos riba 2026.12.25. Pagrindinėje lentelėje 5 konkursai (LT 3, LV 2). Birštono konkursas iškeltas: CVP IS dokumentų sąraše rastas papildymas Nr. 2 „Pranešimas Tiekėjams dėl pirkimo nutraukimo“ ir dokumentas „Dėl pirkimo nutraukimo_2026_11_20.pdf“, kurio aprašymas nurodo nutraukimą. Pagrindinėje kortelėje tebėra 2027.02.25, paties PDF turinio perskaityti nepavyko. Kitų penkių aktyvių konkursų terminai nepasikeitė. Ulbrokos ir Daugpilio terminai bei premijos papildomai patikrinti IUB. Naujo tinkamo LT/LV projekto konkurso nepatvirtinta. Dalies CVP IS ir EIS sąlygų, TED turinio ir pilnos registrų paieškos pasiekti nepavyko. LAAAB turinio tikslinimas grąžino HTTP 429; „Jelgavniekiem“ HTTP 403, Stacijas ir RRTS HTTP 406. Alternatyvūs adresai ir paieška peržiūrėti.
 
 ## Patikra · 2026-11-26
 
